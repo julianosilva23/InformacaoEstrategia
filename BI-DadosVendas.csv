@@ -1,0 +1,1781 @@
+Cliente;Tipo de Cliente;Itens;Vendas Líquidas ($);Método de Pagamento;Gênero;Estado Civil;Idade;Região
+1;Retorno;1;39.5;Discover;Masculino;Casado(a);32;Maringá
+2;1Compra;1;102.4;Boleto;Feminino;Casado(a);36;Francisco Beltrão
+3;Regular;1;22.5;Boleto;Feminino;Casado(a);32;Pato Branco
+4;Retorno;5;100.4;Boleto;Feminino;Casado(a);28;Francisco Beltrão
+5;1Compra;2;54;MasterCard;Feminino;Casado(a);34;Pato Branco
+6;1Compra;1;44.5;MasterCard;Feminino;Casado(a);44;Guarapuava
+7;1Compra;2;78;Boleto;Feminino;Casado(a);30;Toledo
+8;1Compra;1;22.5;Visa;Feminino;Casado(a);40;Francisco Beltrão
+9;Regular;2;56.52;Boleto;Feminino;Casado(a);46;Francisco Beltrão
+10;Retorno;1;44.5;Boleto;Feminino;Casado(a);36;Toledo
+11;Retorno;1;29.5;Boleto;Feminino;Casado(a);48;Francisco Beltrão
+12;Retorno;1;31.6;Boleto;Feminino;Casado(a);40;Pato Branco
+13;Retorno;9;160.4;Visa;Feminino;Casado(a);40;Guarapuava
+14;Regular;2;64.5;Visa;Feminino;Casado(a);46;Colombo
+15;1Compra;1;49.5;Visa;Masculino;Solteiro(a);24;Colombo
+16;Retorno;2;71.4;Boleto;Masculino;Solteiro(a);36;Colombo
+17;1Compra;3;94;Boleto;Feminino;Solteiro(a);22;Guarapuava
+18;1Compra;3;54.5;Discover;Feminino;Casado(a);40;Londrina
+19;Regular;2;38.5;MasterCard;Feminino;Casado(a);32;Pato Branco
+20;Retorno;6;44.8;Boleto;Feminino;Casado(a);56;Maringá
+21;1Compra;1;31.6;Boleto;Feminino;Solteiro(a);28;Francisco Beltrão
+22;1Compra;4;70.82;Boleto;Feminino;Casado(a);38;Pato Branco
+23;Retorno;7;266;American Express;Feminino;Casado(a);50;Toledo
+24;1Compra;2;74;Boleto;Feminino;Casado(a);42;Colombo
+25;Retorno;2;39.5;Visa;Masculino;Casado(a);48;Guarapuava
+26;Regular;1;30.02;Boleto;Feminino;Casado(a);60;Pato Branco
+27;1Compra;1;44.5;Boleto;Feminino;Casado(a);54;Toledo
+28;Retorno;5;192.8;Boleto;Feminino;Solteiro(a);42;Maringá
+29;Retorno;3;71.2;Boleto;Feminino;Casado(a);32;Guarapuava
+30;1Compra;1;18;Boleto;Feminino;Casado(a);70;Pato Branco
+31;Retorno;2;63.2;MasterCard;Feminino;Casado(a);28;Colombo
+32;Regular;1;75;Boleto;Feminino;Casado(a);52;Toledo
+33;Retorno;3;63.2;Boleto;Feminino;Casado(a);44;Pato Branco
+34;Retorno;1;40;Boleto;Feminino;Casado(a);34;Foz do Iguaçu
+35;Regular;5;105.5;MasterCard;Feminino;Casado(a);56;Curitiba0
+36;Retorno;1;29.5;MasterCard;Masculino;Solteiro(a);36;Francisco Beltrão
+37;Retorno;2;102.5;Visa;Feminino;Solteiro(a);42;Foz do Iguaçu
+38;Retorno;6;117.5;Boleto;Feminino;Casado(a);50;Pato Branco
+39;Retorno;5;13.23;Boleto;Feminino;Casado(a);44;Foz do Iguaçu
+40;Retorno;2;52.5;Boleto;Feminino;Casado(a);58;Toledo
+41;Retorno;13;198.8;Boleto;Feminino;Casado(a);42;Pato Branco
+42;Regular;4;19.5;Visa;Feminino;Casado(a);46;Foz do Iguaçu
+43;Retorno;2;123.5;Boleto;Feminino;Casado(a);48;Londrina
+44;1Compra;1;62.4;Boleto;Feminino;Casado(a);54;Foz do Iguaçu
+45;Retorno;2;23.8;Boleto;Feminino;Casado(a);38;Guarapuava
+46;Retorno;2;39.6;Boleto;Feminino;Casado(a);60;Guarapuava
+47;Regular;1;25;MasterCard;Feminino;Casado(a);46;Londrina
+48;Retorno;3;63.64;Boleto;Feminino;Casado(a);30;Francisco Beltrão
+49;Retorno;1;14.82;Boleto;Feminino;Casado(a);32;Francisco Beltrão
+50;Retorno;9;145.2;MasterCard;Feminino;Casado(a);46;Pato Branco
+51;1Compra;6;176.62;Boleto;Feminino;Casado(a);38;Guarapuava
+52;Retorno;5;118.8;Boleto;Masculino;Casado(a);68;Guarapuava
+53;1Compra;1;58;Discover;Feminino;Solteiro(a);78;Maringá
+54;Retorno;2;74;Visa;Feminino;Solteiro(a);20;Francisco Beltrão
+55;Regular;2;49.5;MasterCard;Feminino;Casado(a);32;Francisco Beltrão
+56;Retorno;3;141.6;Boleto;Feminino;Casado(a);38;Foz do Iguaçu
+57;Retorno;6;123.1;Boleto;Feminino;Casado(a);54;Francisco Beltrão
+58;Regular;2;80.4;Boleto;Feminino;Casado(a);48;Foz do Iguaçu
+59;Retorno;4;65.2;MasterCard;Feminino;Casado(a);46;Pato Branco
+60;Retorno;4;113;Boleto;Feminino;Solteiro(a);50;Londrina
+61;1Compra;1;108.8;Boleto;Feminino;Casado(a);46;Francisco Beltrão
+62;Retorno;3;59.91;Boleto;Feminino;Solteiro(a);30;Foz do Iguaçu
+63;Retorno;5;53.6;Boleto;Feminino;Casado(a);54;Toledo
+64;1Compra;1;31.6;Boleto;Feminino;Solteiro(a);42;Foz do Iguaçu
+65;Retorno;2;49.5;Boleto;Feminino;Casado(a);48;Toledo
+66;Regular;1;39.6;Boleto;Feminino;Casado(a);62;Maringá
+67;Retorno;2;59.5;Boleto;Feminino;Casado(a);34;Guarapuava
+68;Regular;5;146.8;Boleto;Feminino;Casado(a);28;Londrina
+69;Retorno;2;47.2;Boleto;Masculino;Casado(a);46;Pato Branco
+70;1Compra;8;95.05;Boleto;Feminino;Casado(a);54;Toledo
+71;Retorno;5;155.32;Boleto;Feminino;Casado(a);30;Maringá
+72;Retorno;4;58;MasterCard;Feminino;Casado(a);32;Curitiba0
+73;Regular;1;69;Boleto;Feminino;Solteiro(a);22;Francisco Beltrão
+74;Retorno;2;46.5;Boleto;Feminino;Casado(a);32;Colombo
+75;Retorno;2;45.22;Boleto;Feminino;Casado(a);74;Curitiba0
+76;1Compra;4;84.74;Boleto;Feminino;Casado(a);62;Londrina
+77;1Compra;2;39;Boleto;Feminino;Casado(a);42;Foz do Iguaçu
+78;Retorno;4;111.14;Boleto;Feminino;Casado(a);28;Pato Branco
+79;1Compra;3;86.8;Boleto;Feminino;Casado(a);38;Pato Branco
+80;Retorno;2;89;Discover;Feminino;Casado(a);54;Toledo
+81;Retorno;2;78;MasterCard;Feminino;Casado(a);68;Guarapuava
+82;Regular;6;53.2;Boleto;Feminino;Solteiro(a);30;Pato Branco
+83;Retorno;4;58.5;Visa;Feminino;Casado(a);36;Pato Branco
+84;Retorno;3;46;Boleto;Feminino;Casado(a);44;Londrina
+85;Retorno;2;37.5;Visa;Feminino;Casado(a);44;Guarapuava
+86;Retorno;1;20.8;Boleto;Feminino;Casado(a);62;Foz do Iguaçu
+87;Regular;6;144;MasterCard;Feminino;Solteiro(a);48;CuritibaCuritiba
+88;Retorno;4;107;Boleto;Feminino;Casado(a);36;Francisco Beltrão
+89;1Compra;1;31.6;Boleto;Feminino;Solteiro(a);20;Toledo
+90;Retorno;6;57.6;Boleto;Feminino;Casado(a);42;Foz do Iguaçu
+91;Retorno;4;95.2;Boleto;Feminino;Casado(a);54;Francisco Beltrão
+92;Retorno;1;22.42;Boleto;Feminino;Casado(a);54;Curitiba0
+93;Retorno;5;159.75;Boleto;Feminino;Casado(a);72;Pato Branco
+94;Retorno;17;229.5;Boleto;Feminino;Casado(a);30;Pato Branco
+95;1Compra;3;66;American Express;Feminino;Casado(a);46;Curitiba0
+96;Regular;1;39.5;MasterCard;Feminino;Casado(a);44;Foz do Iguaçu
+97;1Compra;9;253;Boleto;Feminino;Casado(a);30;Pato Branco
+98;Retorno;10;287.59;Boleto;Feminino;Casado(a);52;Colombo
+99;Regular;2;47.6;Boleto;Feminino;Casado(a);30;Guarapuava
+100;Retorno;1;28.44;Boleto;Feminino;Casado(a);44;Pato Branco
+101;Regular;6.46;75;Visa;Feminino;Casado(a);29;Colombo
+102;Retorno;4.45;67;Boleto;Feminino;Casado(a);25;Guarapuava
+103;Retorno;6.44;32;Boleto;Feminino;Solteiro(a);33;Londrina
+104;1Compra;7.65;77;Boleto;Feminino;Solteiro(a);27;Foz do Iguaçu
+105;Retorno;7.7;13;Boleto;Feminino;Solteiro(a);27;Foz do Iguaçu
+106;Retorno;7.88;50;Visa;Feminino;Casado(a);27;Francisco Beltrão
+107;Retorno;4.15;90;Boleto;Feminino;Solteiro(a);28;Francisco Beltrão
+108;1Compra;5.68;61;Visa;Feminino;Casado(a);27;Toledo
+109;Retorno;8.89;26;Boleto;Feminino;Casado(a);25;Toledo
+110;1Compra;4.6;41;Boleto;Masculino;Casado(a);30;Foz do Iguaçu
+111;1Compra;5.03;70;Boleto;Feminino;Casado(a);43;Toledo
+112;Regular;4.23;45;Boleto;Feminino;Solteiro(a);26;Londrina
+113;1Compra;5.39;30;Boleto;Feminino;Solteiro(a);44;Francisco Beltrão
+114;Regular;4.71;60;Boleto;Feminino;Casado(a);37;Toledo
+115;1Compra;4.93;69;MasterCard;Feminino;Casado(a);24;Pato Branco
+116;Retorno;4.12;75;MasterCard;Feminino;Casado(a);27;Guarapuava
+117;1Compra;5.19;101;Boleto;Feminino;Casado(a);39;CuritibaLondrina
+118;1Compra;5.42;72;MasterCard;Masculino;Casado(a);39;Colombo
+119;Retorno;6.83;48;Visa;Feminino;Casado(a);29;Guarapuava
+120;Retorno;5.48;57;Boleto;Feminino;Casado(a);24;Foz do Iguaçu
+121;1Compra;5.54;58;Boleto;Feminino;Casado(a);31;Toledo
+122;Retorno;5.47;63;Boleto;Feminino;Solteiro(a);29;Pato Branco
+123;Regular;7.69;64;Boleto;Feminino;Casado(a);26;Francisco Beltrão
+124;Retorno;5.91;90;Boleto;Feminino;Solteiro(a);29;Foz do Iguaçu
+125;Retorno;5.75;30;Boleto;Masculino;Casado(a);28;Pato Branco
+126;1Compra;5.27;90;Boleto;Masculino;Solteiro(a);28;Pato Branco
+127;Retorno;7.95;89;Boleto;Masculino;Casado(a);32;Francisco Beltrão
+128;1Compra;7.28;77;Boleto;Feminino;Casado(a);41;Pato Branco
+129;Retorno;8.01;103;Boleto;Feminino;Casado(a);22;Pato Branco
+130;Retorno;5.08;115;Visa;Feminino;Solteiro(a);29;Francisco Beltrão
+131;Regular;7.86;79;Boleto;Feminino;Solteiro(a);28;Francisco Beltrão
+132;Retorno;4.26;66;Boleto;Masculino;Casado(a);26;Foz do Iguaçu
+133;Regular;6.87;35;Boleto;Feminino;Casado(a);32;CuritibaCuritiba
+134;Retorno;7.32;113;Boleto;Feminino;Solteiro(a);30;Pato Branco
+135;Regular;7.94;81;Boleto;Feminino;Casado(a);29;Colombo
+136;Regular;5.92;56;Visa;Feminino;Casado(a);29;Toledo
+137;1Compra;5.25;144;Boleto;Feminino;Casado(a);48;Foz do Iguaçu
+138;1Compra;7.05;107;Visa;Feminino;Casado(a);48;Pato Branco
+139;Retorno;5.46;87;Boleto;Feminino;Solteiro(a);36;Maringá
+140;Regular;7.15;42;Visa;Feminino;Casado(a);36;Toledo
+141;1Compra;4.35;71;Boleto;Feminino;Solteiro(a);26;Pato Branco
+142;1Compra;4.84;66;Boleto;Feminino;Casado(a);30;Toledo
+143;Regular;4.31;58;Boleto;Masculino;Casado(a);27;Francisco Beltrão
+144;1Compra;5.48;160;Boleto;Masculino;Solteiro(a);26;Foz do Iguaçu
+145;Retorno;6;56;Boleto;Masculino;Solteiro(a);42;Foz do Iguaçu
+146;Retorno;6.09;75;Boleto;Masculino;Casado(a);26;Pato Branco
+147;1Compra;5.54;65;MasterCard;Feminino;Casado(a);28;Guarapuava
+148;Retorno;7.99;95;Boleto;Feminino;Casado(a);28;Toledo
+149;Regular;4.21;105;Visa;Feminino;Solteiro(a);33;Curitiba0
+150;1Compra;4.97;61;Boleto;Masculino;Casado(a);43;Toledo
+151;Regular;4.07;113;Boleto;Feminino;Casado(a);37;Pato Branco
+152;1Compra;7.75;85;Boleto;Feminino;Solteiro(a);44;Guarapuava
+153;Regular;4.45;119;Boleto;Feminino;Casado(a);29;Francisco Beltrão
+154;1Compra;5.08;53;Boleto;Feminino;Casado(a);42;Toledo
+155;1Compra;7.15;33;Boleto;Feminino;Casado(a);25;Londrina
+156;1Compra;6.77;51;Boleto;Feminino;Casado(a);26;Maringá
+157;Retorno;7.29;140;Visa;Feminino;Solteiro(a);31;Londrina
+158;Retorno;6.95;82;Boleto;Feminino;Solteiro(a);31;Pato Branco
+159;Regular;4.39;122;Visa;Feminino;Casado(a);28;Foz do Iguaçu
+160;Regular;4.58;55;Boleto;Feminino;Solteiro(a);37;Colombo
+161;1Compra;7.07;121;Boleto;Feminino;Casado(a);33;Francisco Beltrão
+162;Retorno;6.56;87;Boleto;Feminino;Casado(a);30;Guarapuava
+163;Retorno;4.74;146;Visa;Feminino;Casado(a);28;Francisco Beltrão
+164;Retorno;5.67;41;Boleto;Feminino;Solteiro(a);31;Francisco Beltrão
+165;Regular;6.26;91;Boleto;Feminino;Casado(a);24;Colombo
+166;Retorno;6.9;95;MasterCard;Feminino;Casado(a);35;Guarapuava
+167;1Compra;6.27;105;Boleto;Feminino;Casado(a);32;Francisco Beltrão
+168;Regular;4.77;62;Boleto;Feminino;Solteiro(a);27;Toledo
+169;Regular;7.93;104;Boleto;Feminino;Casado(a);30;Guarapuava
+170;1Compra;6.83;57;Visa;Feminino;Solteiro(a);33;Foz do Iguaçu
+171;1Compra;6.17;75;Boleto;Feminino;Solteiro(a);42;Foz do Iguaçu
+172;1Compra;7.24;50;Boleto;Feminino;Casado(a);29;Toledo
+173;Retorno;7.27;58;Boleto;Feminino;Solteiro(a);34;Pato Branco
+174;1Compra;5.1;22;MasterCard;Feminino;Casado(a);28;Francisco Beltrão
+175;Retorno;4.76;26;Boleto;Feminino;Casado(a);24;Foz do Iguaçu
+176;Regular;7.52;19;MasterCard;Feminino;Casado(a);34;Maringá
+177;Retorno;4.51;40;Boleto;Feminino;Casado(a);24;Guarapuava
+178;Retorno;4.29;57;Boleto;Feminino;Casado(a);40;Toledo
+179;1Compra;7.1;55;Boleto;Feminino;Casado(a);48;Francisco Beltrão
+180;Regular;7;75;Boleto;Feminino;Solteiro(a);31;Maringá
+181;1Compra;8;28;Boleto;Feminino;Casado(a);37;Guarapuava
+182;1Compra;7.75;43;Boleto;Feminino;Solteiro(a);35;Francisco Beltrão
+183;Regular;7.67;23;Boleto;Feminino;Casado(a);34;Foz do Iguaçu
+184;Regular;6.35;57;Boleto;Feminino;Solteiro(a);46;Colombo
+185;1Compra;6.05;68;Boleto;Feminino;Casado(a);46;Curitiba0
+186;1Compra;6.75;42;Boleto;Feminino;Casado(a);47;Colombo
+187;Retorno;6.01;16;Boleto;Feminino;Solteiro(a);31;Londrina
+188;Retorno;4.63;49;Boleto;Feminino;Solteiro(a);42;Guarapuava
+189;Retorno;4.2;60;Visa;Feminino;Casado(a);37;Foz do Iguaçu
+190;Retorno;7.24;59;Boleto;Feminino;Solteiro(a);35;Pato Branco
+191;Retorno;6.74;83;Boleto;Feminino;Casado(a);28;CuritibaMaringá
+192;Retorno;6.98;60;Boleto;Feminino;Solteiro(a);38;Guarapuava
+193;1Compra;7.02;47;Boleto;Feminino;Solteiro(a);31;Guarapuava
+194;Regular;4.66;71;Boleto;Masculino;Solteiro(a);35;Maringá
+195;Retorno;7.62;66;Boleto;Feminino;Solteiro(a);27;Pato Branco
+196;1Compra;5.56;77;Boleto;Feminino;Casado(a);31;Guarapuava
+197;1Compra;4.85;32;Boleto;Feminino;Solteiro(a);32;Guarapuava
+198;1Compra;4.87;95;Boleto;Feminino;Casado(a);27;Toledo
+199;1Compra;5.39;31;Visa;Feminino;Casado(a);37;Foz do Iguaçu
+200;Regular;5.35;61;Boleto;Feminino;Casado(a);27;Curitiba0
+201;Retorno;5.25;75;Boleto;Feminino;Casado(a);31;Pato Branco
+202;Retorno;7.26;69;Boleto;Feminino;Solteiro(a);29;Foz do Iguaçu
+203;Retorno;6.83;39;Boleto;Feminino;Casado(a);35;Guarapuava
+204;Retorno;5.14;43;Boleto;Feminino;Casado(a);33;Francisco Beltrão
+205;Regular;7.67;53;Boleto;Feminino;Solteiro(a);37;Guarapuava
+206;1Compra;4.21;87;Boleto;Feminino;Casado(a);31;Francisco Beltrão
+207;Retorno;6.89;33;Boleto;Feminino;Solteiro(a);26;Guarapuava
+208;1Compra;5.86;60;Boleto;Feminino;Solteiro(a);40;Colombo
+209;1Compra;6.12;65;Boleto;Feminino;Casado(a);32;Toledo
+210;Regular;5.08;57;Boleto;Feminino;Solteiro(a);33;Guarapuava
+211;Retorno;5.22;59;Boleto;Feminino;Casado(a);30;Guarapuava
+212;1Compra;7.26;18;Boleto;Feminino;Casado(a);30;Francisco Beltrão
+213;1Compra;7.21;42;Boleto;Masculino;Solteiro(a);31;Toledo
+214;Retorno;6.75;55;Boleto;Feminino;Casado(a);33;Pato Branco
+215;1Compra;7.07;39;Boleto;Feminino;Casado(a);34;Guarapuava
+216;Retorno;7.84;67;Boleto;Feminino;Casado(a);37;Colombo
+217;Regular;6.53;90;Visa;Feminino;Casado(a);28;Pato Branco
+218;1Compra;6.94;33;Boleto;Feminino;Casado(a);36;Guarapuava
+219;Retorno;7.92;24;Boleto;Feminino;Casado(a);26;Pato Branco
+220;Retorno;5.52;50;Visa;Feminino;Casado(a);35;Foz do Iguaçu
+221;1Compra;7.45;80;Boleto;Feminino;Solteiro(a);39;Curitiba0
+222;Retorno;6.28;23;Boleto;Feminino;Casado(a);39;CuritibaCuritiba
+223;Regular;7.54;22;Boleto;Feminino;Solteiro(a);28;Francisco Beltrão
+224;Retorno;5.81;39;Boleto;Feminino;Solteiro(a);31;Francisco Beltrão
+225;Retorno;4.92;65;Boleto;Feminino;Casado(a);41;Guarapuava
+226;Regular;8.13;13;Boleto;Masculino;Casado(a);32;Francisco Beltrão
+227;Retorno;5.17;81;Boleto;Feminino;Solteiro(a);29;Guarapuava
+228;Retorno;6.86;83;Boleto;Feminino;Solteiro(a);31;Guarapuava
+229;Retorno;6.88;24;Boleto;Feminino;Solteiro(a);24;Foz do Iguaçu
+230;Retorno;5.55;86;Boleto;Feminino;Solteiro(a);37;Toledo
+231;Retorno;5.37;61;Boleto;Feminino;Casado(a);36;Francisco Beltrão
+232;Retorno;4.39;68;Boleto;Feminino;Solteiro(a);26;Foz do Iguaçu
+233;Regular;7.96;35;MasterCard;Masculino;Solteiro(a);30;Pato Branco
+234;Retorno;5.19;37;Boleto;Feminino;Casado(a);46;Pato Branco
+235;1Compra;7.4;33;Boleto;Feminino;Solteiro(a);44;Guarapuava
+236;Retorno;5.68;20;Boleto;Feminino;Casado(a);30;Toledo
+237;Retorno;8.04;65;Boleto;Feminino;Solteiro(a);52;Guarapuava
+238;Regular;7.63;86;Boleto;Masculino;Solteiro(a);30;Francisco Beltrão
+239;Retorno;7.29;83;Boleto;Feminino;Solteiro(a);44;Pato Branco
+240;Retorno;7.68;22;Boleto;Feminino;Solteiro(a);29;Pato Branco
+241;Retorno;6.35;30;Boleto;Feminino;Casado(a);25;Maringá
+242;1Compra;6.87;59;Boleto;Feminino;Solteiro(a);33;Francisco Beltrão
+243;Retorno;5.66;43;Boleto;Feminino;Casado(a);27;Toledo
+244;1Compra;4.49;38;Boleto;Feminino;Solteiro(a);27;Guarapuava
+245;Retorno;7.64;57;Boleto;Feminino;Solteiro(a);27;Curitiba0
+246;Regular;5.6;80;MasterCard;Feminino;Casado(a);28;Pato Branco
+247;Retorno;4.43;24;MasterCard;Feminino;Casado(a);27;Colombo
+248;Retorno;7.16;68;Boleto;Feminino;Casado(a);25;Francisco Beltrão
+249;Regular;7.18;42;Boleto;Feminino;Casado(a);30;CuritibaCuritiba
+250;Retorno;6.71;110;Boleto;Feminino;Solteiro(a);43;Toledo
+251;Retorno;6.68;60;Boleto;Feminino;Casado(a);26;Guarapuava
+252;1Compra;5.08;58;Boleto;Feminino;Casado(a);44;Maringá
+253;Retorno;7.11;51;MasterCard;Feminino;Casado(a);37;Toledo
+254;Retorno;6.85;71;Boleto;Masculino;Casado(a);24;Foz do Iguaçu
+255;1Compra;7.49;135;Visa;Feminino;Solteiro(a);27;Francisco Beltrão
+256;Retorno;4.06;75;Boleto;Feminino;Solteiro(a);39;Toledo
+257;Regular;6.76;93;Boleto;Feminino;Casado(a);24;Toledo
+258;Retorno;7.77;42;Boleto;Feminino;Casado(a);40;Colombo
+259;Regular;5.59;123;Boleto;Feminino;Solteiro(a);53;Colombo
+260;Retorno;6.12;54;Boleto;Feminino;Solteiro(a);47;Guarapuava
+261;1Compra;7.7;78;Boleto;Feminino;Casado(a);38;Londrina
+262;Retorno;7.87;75;Boleto;Feminino;Casado(a);43;Colombo
+263;Retorno;6.43;107;Boleto;Feminino;Casado(a);28;Toledo
+264;Regular;6.28;49;Boleto;Feminino;Solteiro(a);31;Guarapuava
+265;Retorno;7.92;67;Visa;Feminino;Casado(a);34;Toledo
+266;Retorno;5.98;114;Boleto;Feminino;Casado(a);55;Foz do Iguaçu
+267;1Compra;5.07;80;Boleto;Feminino;Casado(a);57;CuritibaCuritiba
+268;1Compra;7.32;34;Boleto;Masculino;Solteiro(a);27;Guarapuava
+269;Retorno;6.03;68;Boleto;Feminino;Solteiro(a);48;Toledo
+270;1Compra;7.45;64;Boleto;Feminino;Casado(a);39;Guarapuava
+271;Retorno;6.72;57;Boleto;Feminino;Casado(a);34;Francisco Beltrão
+272;Retorno;7.76;120;Boleto;Feminino;Solteiro(a);41;Colombo
+273;Regular;5.86;54;Visa;Feminino;Casado(a);50;Toledo
+274;Retorno;4.72;92;Boleto;Feminino;Solteiro(a);53;Pato Branco
+275;Retorno;4.3;122;Visa;Feminino;Casado(a);60;Foz do Iguaçu
+276;Retorno;4.07;36;Boleto;Feminino;Solteiro(a);43;Francisco Beltrão
+277;Retorno;6.21;76;Visa;Feminino;Casado(a);32;Pato Branco
+278;Regular;6.52;48;Boleto;Feminino;Casado(a);38;Toledo
+279;Retorno;6.02;64;Visa;Feminino;Solteiro(a);28;Toledo
+280;1Compra;6.37;113;Boleto;Masculino;Solteiro(a);35;Maringá
+281;Retorno;6.46;66;Boleto;Feminino;Solteiro(a);38;Guarapuava
+282;Retorno;7.77;33;Boleto;Feminino;Solteiro(a);25;Guarapuava
+283;Retorno;6.19;75;Visa;Feminino;Solteiro(a);28;Maringá
+284;Retorno;4.58;107;Boleto;Feminino;Solteiro(a);33;Toledo
+285;Retorno;4.38;75;Visa;Feminino;Casado(a);24;Francisco Beltrão
+286;1Compra;7.58;66;Boleto;Feminino;Casado(a);33;Colombo
+287;Regular;7.37;39;Boleto;Feminino;Casado(a);31;Colombo
+288;1Compra;4.31;69;Boleto;Feminino;Solteiro(a);53;Francisco Beltrão
+289;Retorno;5.13;77;Visa;Feminino;Solteiro(a);42;Maringá
+290;Regular;6.85;150;Boleto;Feminino;Casado(a);25;Toledo
+291;Retorno;5.71;107;Boleto;Feminino;Casado(a);27;Pato Branco
+292;Regular;8.33;66;Boleto;Feminino;Solteiro(a);39;Francisco Beltrão
+293;Retorno;6.22;81;Boleto;Feminino;Casado(a);29;Guarapuava
+294;Retorno;4.94;90;Boleto;Feminino;Casado(a);35;Foz do Iguaçu
+295;1Compra;6.92;97;Boleto;Feminino;Casado(a);36;Foz do Iguaçu
+296;Retorno;6.88;86;Boleto;Feminino;Casado(a);53;Guarapuava
+297;Retorno;7.12;48;Boleto;Feminino;Solteiro(a);45;Francisco Beltrão
+298;Retorno;4.78;64;Boleto;Feminino;Casado(a);40;Maringá
+299;1Compra;6.95;106;MasterCard;Feminino;Solteiro(a);23;Francisco Beltrão
+300;Retorno;9.22;44;Boleto;Feminino;Casado(a);40;Foz do Iguaçu
+301;1Compra;6.42;101;Boleto;2;Solteiro(a);26;Pato Branco
+302;1Compra;5.45;76;Boleto;Feminino;Casado(a);33;Guarapuava
+303;Regular;6.44;74;Boleto;Feminino;Casado(a);37;Guarapuava
+304;1Compra;9.12;112;Boleto;Feminino;Casado(a);25;Pato Branco
+305;Regular;4.08;61;Boleto;Feminino;Solteiro(a);47;Pato Branco
+306;1Compra;6.08;143;Boleto;Feminino;Casado(a);32;Pato Branco
+307;Retorno;5.85;101;Boleto;Feminino;Solteiro(a);35;Foz do Iguaçu
+308;1Compra;7.41;83;Boleto;Feminino;Solteiro(a);33;Pato Branco
+309;1Compra;7.62;45;Boleto;Feminino;Casado(a);58;Toledo
+310;Retorno;8.41;22;Boleto;Feminino;Solteiro(a);46;Guarapuava
+311;Retorno;4.19;31;Boleto;Feminino;Solteiro(a);40;Guarapuava
+312;1Compra;7.21;63;Boleto;Feminino;Casado(a);44;Curitiba0
+313;Retorno;6.62;86;Boleto;Feminino;Casado(a);33;Pato Branco
+314;Regular;7.13;69;Boleto;Feminino;Casado(a);38;Pato Branco
+315;Retorno;6.79;75;Boleto;Feminino;Casado(a);43;Pato Branco
+316;Retorno;5.83;74;Visa;Feminino;Casado(a);48;Pato Branco
+317;1Compra;7.86;131;Boleto;Feminino;Solteiro(a);34;Guarapuava
+318;Retorno;6.75;65;Boleto;Feminino;Casado(a);51;Francisco Beltrão
+319;1Compra;6;131;Boleto;Feminino;Solteiro(a);33;Guarapuava
+320;Retorno;6.02;57;Boleto;Feminino;Solteiro(a);30;Pato Branco
+321;Retorno;5.97;13;Boleto;Feminino;Casado(a);52;Foz do Iguaçu
+322;Regular;4.23;44;Boleto;Feminino;Solteiro(a);30;Pato Branco
+323;Retorno;6.73;89;Boleto;Feminino;Casado(a);44;Pato Branco
+324;Regular;6.36;78;Boleto;Feminino;Casado(a);29;Foz do Iguaçu
+325;Retorno;7.02;75;Boleto;Feminino;Casado(a);25;Francisco Beltrão
+326;Regular;5.78;10;Boleto;Feminino;Casado(a);33;Foz do Iguaçu
+327;Regular;7.23;13;Boleto;Masculino;Casado(a);27;Francisco Beltrão
+328;1Compra;7.68;77;Boleto;Masculino;Casado(a);27;Pato Branco
+329;1Compra;7.94;66;Boleto;Feminino;Solteiro(a);27;Foz do Iguaçu
+330;Retorno;4.43;86;Boleto;Feminino;Casado(a);28;Foz do Iguaçu
+331;Regular;6.98;41;Boleto;Feminino;Casado(a);27;Pato Branco
+332;1Compra;5.71;47;Boleto;Feminino;Solteiro(a);25;Pato Branco
+333;1Compra;4.97;43;Visa;Feminino;Casado(a);30;Maringá
+334;Regular;7.13;37;Boleto;Feminino;Solteiro(a);43;Guarapuava
+335;1Compra;8.01;75;Boleto;Feminino;Solteiro(a);26;Pato Branco
+336;Retorno;7.7;5;Boleto;Feminino;Solteiro(a);44;Guarapuava
+337;Retorno;6.34;81;Boleto;Feminino;Casado(a);37;Colombo
+338;1Compra;5.32;61;Boleto;Masculino;Casado(a);24;Francisco Beltrão
+339;Retorno;5.67;64;Boleto;Feminino;Solteiro(a);27;Pato Branco
+340;Regular;4.59;66;Boleto;Feminino;Solteiro(a);39;Toledo
+341;1Compra;6.17;45;Boleto;Masculino;Casado(a);24;Toledo
+342;Regular;5.64;23;Boleto;Feminino;Casado(a);40;Toledo
+343;1Compra;7;77;Boleto;Feminino;Solteiro(a);53;Colombo
+344;Regular;4.46;84;Boleto;Feminino;Casado(a);47;Toledo
+345;1Compra;6.84;43;Boleto;Feminino;Casado(a);38;Pato Branco
+346;1Compra;7.39;33;Visa;Feminino;Solteiro(a);43;Foz do Iguaçu
+347;1Compra;4.83;59;Boleto;Feminino;Casado(a);28;Guarapuava
+348;Retorno;6.63;63;Boleto;Feminino;Casado(a);31;Francisco Beltrão
+349;Retorno;6.86;120;Boleto;Feminino;Casado(a);34;Guarapuava
+350;Regular;7.39;100;Boleto;Feminino;Casado(a);55;Foz do Iguaçu
+351;Regular;5.69;95;MasterCard;Feminino;Casado(a);57;Francisco Beltrão
+352;1Compra;6.42;250;Boleto;Feminino;Casado(a);27;Colombo
+353;Retorno;5.4;160;Visa;Feminino;Casado(a);48;Guarapuava
+354;Retorno;6.83;130;Visa;Feminino;Solteiro(a);39;Foz do Iguaçu
+355;Retorno;7.82;170;Visa;Feminino;Solteiro(a);34;Colombo
+356;Regular;5.8;110;Boleto;Feminino;Casado(a);41;Colombo
+357;Retorno;4.66;100;Boleto;Feminino;Casado(a);50;Curitiba0
+358;1Compra;4.76;105;Boleto;Feminino;Solteiro(a);53;Maringá
+359;Regular;7.12;120;Boleto;Feminino;Casado(a);60;Francisco Beltrão
+360;Regular;7.83;170;Boleto;Feminino;Casado(a);43;Toledo
+361;1Compra;5.14;230;Boleto;Feminino;Solteiro(a);32;Maringá
+362;1Compra;4.86;100;Boleto;Feminino;Casado(a);38;Foz do Iguaçu
+363;1Compra;7.44;105;Visa;Feminino;Casado(a);28;Francisco Beltrão
+364;Retorno;6.4;130;Boleto;Feminino;Solteiro(a);35;Colombo
+365;1Compra;6.74;240;Boleto;Feminino;Solteiro(a);38;Colombo
+366;Retorno;8.03;105;Boleto;Feminino;Solteiro(a);25;Toledo
+367;Regular;5.17;140;Boleto;Feminino;Casado(a);28;Pato Branco
+368;Retorno;4.92;210;Boleto;Feminino;Casado(a);33;Foz do Iguaçu
+369;Retorno;7.6;140;Boleto;Feminino;Casado(a);24;Pato Branco
+370;1Compra;5.57;91;MasterCard;Feminino;Casado(a);33;Pato Branco
+371;Regular;4.36;69;Boleto;Feminino;Casado(a);31;Francisco Beltrão
+372;1Compra;7.52;119;Boleto;Masculino;Solteiro(a);53;Colombo
+373;1Compra;4.45;121;Visa;Masculino;Casado(a);42;Foz do Iguaçu
+374;Regular;5.43;40;Boleto;Masculino;Casado(a);25;Guarapuava
+375;Regular;4.47;138;Boleto;Masculino;Casado(a);27;Francisco Beltrão
+376;1Compra;4.59;54;MasterCard;Masculino;Casado(a);39;Pato Branco
+377;1Compra;6.96;53;Boleto;Masculino;Casado(a);29;Francisco Beltrão
+378;Retorno;6.24;67;Boleto;Feminino;Solteiro(a);35;Colombo
+379;Retorno;4.21;76;Boleto;Feminino;Casado(a);36;Francisco Beltrão
+380;Retorno;7.97;76;MasterCard;Feminino;Casado(a);53;Maringá
+381;Retorno;6.43;99;Boleto;Feminino;Casado(a);45;Pato Branco
+382;Retorno;7.74;82;Boleto;Feminino;Casado(a);40;CuritibaCuritiba
+383;Retorno;6.01;136;Boleto;Feminino;Casado(a);23;Pato Branco
+384;1Compra;6.31;71;Boleto;Feminino;Casado(a);40;Pato Branco
+385;Regular;6.1;109;Boleto;Feminino;Casado(a);26;Maringá
+386;Retorno;4.18;26;Boleto;Feminino;Casado(a);33;Pato Branco
+387;1Compra;5.03;55;Boleto;Feminino;Casado(a);37;Pato Branco
+388;1Compra;7.72;108;Boleto;Feminino;Solteiro(a);25;Pato Branco
+389;1Compra;6.32;70;Boleto;Feminino;Casado(a);47;Pato Branco
+390;1Compra;5.37;92;Boleto;Feminino;Solteiro(a);32;Francisco Beltrão
+391;Regular;5.14;118;Boleto;Feminino;Casado(a);35;Colombo
+392;Retorno;4.55;116;Visa;Feminino;Solteiro(a);33;Curitiba0
+393;Retorno;7.63;169;Boleto;Feminino;Casado(a);58;Curitiba0
+394;Retorno;8.02;119;Boleto;Feminino;Solteiro(a);46;Francisco Beltrão
+395;Retorno;7.33;123;Boleto;Feminino;Casado(a);40;Toledo
+396;Regular;5.89;136;Boleto;Feminino;Casado(a);44;Foz do Iguaçu
+397;1Compra;4.83;115;Boleto;Feminino;Casado(a);33;Pato Branco
+398;Retorno;5.91;120;Boleto;Feminino;Casado(a);38;Colombo
+399;1Compra;5.65;73;Boleto;Feminino;Casado(a);43;Maringá
+400;1Compra;5.44;78;Boleto;Feminino;Casado(a);38;Londrina
+401;Regular;7.28;120;Visa;Feminino;Solteiro(a);42;Toledo
+402;Retorno;5.6;200;Visa;Feminino;Casado(a);32;Francisco Beltrão
+403;1Compra;6.59;95;Visa;Feminino;Casado(a);40;Pato Branco
+404;1Compra;7.2;95;Boleto;Feminino;Casado(a);43;Colombo
+405;Retorno;6.43;98;Visa;Feminino;Casado(a);61;Foz do Iguaçu
+406;1Compra;4.26;92;Boleto;Feminino;Casado(a);67;Curitiba
+407;Retorno;6.09;221;Boleto;Feminino;Casado(a);32;Londrina
+408;Regular;7.02;130;Boleto;Feminino;Casado(a);70;Toledo
+409;1Compra;5.79;117;Boleto;Feminino;Solteiro(a);28;Toledo
+410;Retorno;4.25;108;Boleto;Feminino;Solteiro(a);45;Francisco Beltrão
+411;Retorno;4.27;241;Visa;Feminino;Solteiro(a);21;Foz do Iguaçu
+412;1Compra;4.88;162;Visa;Feminino;Casado(a);34;Pato Branco
+413;Retorno;6.46;90;Visa;Masculino;Casado(a);34;Francisco Beltrão
+414;Regular;5.13;188;Boleto;Feminino;Casado(a);66;Guarapuava
+415;Retorno;7.97;190;Visa;Feminino;Casado(a);26;Maringá
+416;Retorno;5.71;70;Boleto;Feminino;Casado(a);24;Francisco Beltrão
+417;Regular;7.92;85;Boleto;Feminino;Solteiro(a);47;Pato Branco
+418;Retorno;7.62;153;Visa;Feminino;Casado(a);32;Colombo
+419;Retorno;5.34;90;Boleto;Feminino;Casado(a);44;Francisco Beltrão
+420;Retorno;4.18;23;Boleto;Feminino;Solteiro(a);29;Pato Branco
+421;Retorno;4.78;172;Boleto;Feminino;Solteiro(a);23;Colombo
+422;Retorno;6.21;130;Boleto;Feminino;Casado(a);21;CuritibaCuritiba
+423;Retorno;6.48;184;Boleto;Masculino;Solteiro(a);56;Foz do Iguaçu
+424;Regular;7.31;135;Boleto;Feminino;Casado(a);58;Guarapuava
+425;Retorno;4.13;114;Visa;Feminino;Solteiro(a);40;Toledo
+426;1Compra;6.25;149;Boleto;Feminino;Casado(a);42;Toledo
+427;Retorno;6.29;130;Boleto;Feminino;Casado(a);66;Toledo
+428;Retorno;6.28;131;Boleto;Feminino;Solteiro(a);47;Foz do Iguaçu
+429;Regular;5.93;93;Boleto;Feminino;Casado(a);26;Maringá
+430;Retorno;5.67;81;Boleto;Feminino;Solteiro(a);41;Pato Branco
+431;Retorno;7.77;120;Boleto;Feminino;Solteiro(a);56;Toledo
+432;Retorno;7.25;125;Boleto;Masculino;Solteiro(a);56;Francisco Beltrão
+433;1Compra;4.42;75;Boleto;Feminino;Casado(a);26;Colombo
+434;Retorno;5.32;92;MasterCard;Masculino;Casado(a);29;Francisco Beltrão
+435;1Compra;5.64;96;Boleto;Feminino;Solteiro(a);48;Pato Branco
+436;Retorno;4.75;122;Boleto;Feminino;Solteiro(a);34;Francisco Beltrão
+437;Regular;5.74;120;Boleto;Feminino;Solteiro(a);50;Colombo
+438;Retorno;6.29;138;Boleto;Feminino;Casado(a);58;Colombo
+439;Retorno;4.73;105;Visa;Feminino;Casado(a);62;Pato Branco
+440;Regular;7.25;141;Boleto;Feminino;Casado(a);32;Foz do Iguaçu
+441;Retorno;5.77;200;Boleto;Feminino;Solteiro(a);30;Toledo
+442;Retorno;7.09;99;Boleto;Feminino;Solteiro(a);47;Colombo
+443;1Compra;4.95;131;Boleto;Feminino;Solteiro(a);48;Francisco Beltrão
+444;Retorno;6.54;98;Boleto;Masculino;Casado(a);35;Guarapuava
+445;Retorno;4.47;149;Boleto;Masculino;Casado(a);59;Foz do Iguaçu
+446;1Compra;8.01;96;Boleto;Feminino;Casado(a);31;Curitiba0
+447;Retorno;7.23;142;Boleto;Feminino;Casado(a);33;Foz do Iguaçu
+448;Regular;4.57;131;Boleto;Feminino;Casado(a);28;Foz do Iguaçu
+449;Retorno;7.78;88;Boleto;Feminino;Solteiro(a);43;Francisco Beltrão
+450;Regular;6.99;145;Visa;Feminino;Solteiro(a);35;Curitiba0
+451;Retorno;4.36;85;MasterCard;2;Solteiro(a);35;Toledo
+452;1Compra;5.38;141;Boleto;Feminino;Solteiro(a);58;Toledo
+453;Retorno;6.49;170;MasterCard;Feminino;Solteiro(a);47;Francisco Beltrão
+454;Retorno;5.01;123;Boleto;Feminino;Casado(a);45;Guarapuava
+455;Regular;6.93;175;Boleto;Feminino;Casado(a);9;Pato Branco
+456;Retorno;5.68;133;Boleto;Feminino;Casado(a);55;Colombo
+457;Retorno;6.86;109;Boleto;Feminino;Casado(a);22;Foz do Iguaçu
+458;1Compra;4.16;155;Boleto;Feminino;Casado(a);26;Colombo
+459;1Compra;4.58;135;Boleto;Feminino;Casado(a);53;Francisco Beltrão
+460;Retorno;7.78;121;Boleto;Feminino;Casado(a);49;Toledo
+461;1Compra;6.38;129;Boleto;Feminino;Casado(a);26;Francisco Beltrão
+462;Retorno;7.31;125;Boleto;Feminino;Casado(a);25;CuritibaCuritiba
+463;Retorno;4.49;119;Boleto;Feminino;Casado(a);25;Curitiba
+464;Regular;4.46;94;Boleto;Feminino;Casado(a);25;Guarapuava
+465;Retorno;5.66;106;Visa;Feminino;Solteiro(a);30;Pato Branco
+466;Retorno;5.75;162;Boleto;Feminino;Solteiro(a);63;Foz do Iguaçu
+467;Retorno;7.43;185;Boleto;Feminino;Casado(a);30;Pato Branco
+468;Retorno;7.43;170;Boleto;Feminino;Solteiro(a);47;Guarapuava
+469;Regular;5.59;115;Boleto;Feminino;Casado(a);20;Maringá
+470;Retorno;6.82;185;Boleto;Feminino;Casado(a);38;Foz do Iguaçu
+471;1Compra;7.37;210;Boleto;Feminino;Casado(a);23;Foz do Iguaçu
+472;Retorno;4.93;120;Boleto;Feminino;Casado(a);63;Toledo
+473;Retorno;4.97;225;Visa;Feminino;Casado(a);73;Toledo
+474;Retorno;5.58;227;Boleto;Feminino;Solteiro(a);46;Francisco Beltrão
+475;Retorno;6.82;260;Boleto;Masculino;Casado(a);29;Maringá
+476;Retorno;4.22;325;Boleto;Feminino;Solteiro(a);38;Foz do Iguaçu
+477;1Compra;8.82;470;Visa;Masculino;Solteiro(a);4;Guarapuava
+478;Regular;7.94;250;Boleto;Feminino;Casado(a);57;Francisco Beltrão
+479;1Compra;6.07;248;Boleto;Feminino;Casado(a);26;Francisco Beltrão
+480;Retorno;4.44;195;Visa;Feminino;Solteiro(a);36;Pato Branco
+481;Regular;6.08;210;Boleto;Feminino;Casado(a);42;Pato Branco
+482;Retorno;7.77;220;Boleto;Feminino;Casado(a);58;Londrina
+483;Regular;8.09;240;Visa;Masculino;Casado(a);78;Londrina
+484;Retorno;7.76;190;MasterCard;Feminino;Casado(a);33;Pato Branco
+485;Retorno;6.59;40;Boleto;Feminino;Solteiro(a);43;Colombo
+486;1Compra;5.03;170;MasterCard;Feminino;Casado(a);42;Guarapuava
+487;Retorno;5.84;265;Boleto;Feminino;Casado(a);65;Pato Branco
+488;Retorno;7.09;325;Boleto;Feminino;Casado(a);39;Guarapuava
+489;Retorno;4.22;530;Boleto;Feminino;Casado(a);48;Foz do Iguaçu
+490;1Compra;4.85;270;Boleto;Feminino;Casado(a);43;Foz do Iguaçu
+491;Retorno;7.98;80;Boleto;Feminino;Casado(a);27;Francisco Beltrão
+492;1Compra;5.46;118;Boleto;Feminino;Casado(a);52;Guarapuava
+493;1Compra;4.51;160;Boleto;Feminino;Solteiro(a);33;Pato Branco
+494;Regular;6.44;70;Boleto;Feminino;Casado(a);39;Foz do Iguaçu
+495;1Compra;8.36;180;Boleto;Masculino;Casado(a);58;Guarapuava
+496;Regular;4.22;200;MasterCard;Feminino;Solteiro(a);25;Toledo
+497;1Compra;5.38;270;Boleto;Feminino;Casado(a);37;Toledo
+498;Retorno;4.94;65;Visa;Feminino;Casado(a);60;Pato Branco
+499;1Compra;6.68;240;Boleto;Feminino;Casado(a);37;Pato Branco
+500;1Compra;5.72;175;Boleto;Feminino;Casado(a);72;Foz do Iguaçu
+501;Retorno;5.83;160;Boleto;Feminino;Casado(a);24;Francisco Beltrão
+502;Retorno;6.33;65;Boleto;Feminino;Solteiro(a);67;Londrina
+503;1Compra;4.72;129;Boleto;Feminino;Solteiro(a);30;Guarapuava
+504;Retorno;4.75;62;Boleto;Feminino;Casado(a);78;Toledo
+505;Regular;5.43;76;Boleto;Feminino;Casado(a);53;Francisco Beltrão
+506;Retorno;7.94;72;Boleto;Feminino;Solteiro(a);22;Maringá
+507;Retorno;4.18;40;Boleto;Feminino;Casado(a);30;Pato Branco
+508;1Compra;5.83;97;Boleto;Feminino;Casado(a);46;Foz do Iguaçu
+509;Retorno;6.63;67;Boleto;Masculino;Casado(a);24;Curitiba0
+510;1Compra;6.48;69;Visa;Masculino;Solteiro(a);81;Francisco Beltrão
+511;Retorno;7.81;22;Boleto;Masculino;Casado(a);53;Guarapuava
+512;Retorno;4.23;57;Boleto;Masculino;Casado(a);22;Toledo
+513;Regular;6.5;34;Boleto;Feminino;Solteiro(a);33;Pato Branco
+514;Retorno;4.66;5;Boleto;Feminino;Casado(a);27;Guarapuava
+515;Regular;6.67;29;Boleto;Feminino;Casado(a);24;Toledo
+516;Retorno;7.08;3;Boleto;Feminino;Solteiro(a);63;Pato Branco
+517;Regular;4.84;35;Boleto;Feminino;Casado(a);53;Pato Branco
+518;Regular;5.71;20;Boleto;Feminino;Casado(a);86;Foz do Iguaçu
+519;1Compra;5.24;25;Boleto;Feminino;Casado(a);34;Dois Vizinhos
+520;1Compra;4.45;11;Boleto;Feminino;Casado(a);59;Dois Vizinhos
+521;Retorno;6.67;17;Boleto;Feminino;Solteiro(a);56;Toledo
+522;Regular;6.71;48;Visa;Feminino;Casado(a);29;Maringa
+523;1Compra;5.84;40;Boleto;Masculino;Solteiro(a);52;Toledo
+524;1Compra;6.79;26;Boleto;Feminino;Solteiro(a);49;Maringa
+525;Regular;6.6;49;Boleto;Masculino;Casado(a);40;Pato Branco
+526;1Compra;8.01;40;Boleto;Feminino;Solteiro(a);65;Guarapuava
+527;Retorno;4.83;26;Boleto;Feminino;Solteiro(a);32;Toledo
+528;Retorno;6.64;50;Boleto;Feminino;Solteiro(a);46;Toledo
+529;1Compra;4.12;55;Boleto;Feminino;Solteiro(a);45;Guarapuava
+530;Retorno;5.84;18;Boleto;Feminino;Solteiro(a);0;Toledo
+531;Regular;7.4;11;Visa;Feminino;6;49;Maringa
+532;1Compra;4.81;13;Boleto;Feminino;Solteiro(a);20;Pato Branco
+533;Regular;5.5;22;Boleto;Feminino;Casado(a);25;Pato Branco
+534;1Compra;5.16;25;Visa;Feminino;Casado(a);39;Pato Branco
+535;Regular;5.48;42;Boleto;Feminino;Casado(a);37;Pato Branco
+536;1Compra;7.26;52;Boleto;Feminino;Casado(a);41;Pato Branco
+537;1Compra;5.85;14;Boleto;Feminino;Casado(a);28;Londrina
+538;1Compra;7.91;45;Visa;Feminino;Casado(a);35;Maringa
+539;Retorno;5.37;25;Boleto;Feminino;Solteiro(a);73;Dois Vizinhos
+540;Retorno;4.54;41;Boleto;Feminino;Solteiro(a);46;Toledo
+541;Regular;7;32;Boleto;Feminino;Casado(a);37;Maringa
+542;Regular;5.89;31;Boleto;Feminino;Casado(a);39;Guarapuava
+543;1Compra;5.79;40;Boleto;Feminino;Solteiro(a);67;Pato Branco
+544;Retorno;4.26;56;Visa;Feminino;Solteiro(a);60;Pato Branco
+545;Retorno;4.88;156;Visa;Feminino;Solteiro(a);25;Maringa
+546;Retorno;5.19;138;Visa;Feminino;Casado(a);19;Guarapuava
+547;Regular;4.91;77;Boleto;Feminino;Solteiro(a);44;Dois Vizinhos
+548;Retorno;4.43;63;Visa;Feminino;Solteiro(a);72;Pato Branco
+549;1Compra;5.86;92;Boleto;Feminino;Casado(a);84;Maringa
+550;Regular;7.5;94;Boleto;Masculino;6;66;Pato Branco
+551;Regular;5.07;72;Boleto;Feminino;Casado(a);22;Guarapuava
+552;1Compra;5.91;141;Boleto;Feminino;Casado(a);34;Maringa
+553;1Compra;5.93;96;Boleto;Feminino;Solteiro(a);38;Colombo
+554;1Compra;7.3;141;Boleto;Feminino;Casado(a);35;Curitiba0
+555;Retorno;5.66;85;Boleto;Feminino;Casado(a);41;Toledo
+556;1Compra;8.03;54;Boleto;Feminino;Casado(a);45;Colombo
+557;Retorno;4.08;81;Boleto;Feminino;Casado(a);33;Maringa
+558;Regular;6.05;56;Visa;Feminino;Solteiro(a);28;Colombo
+559;Retorno;4.99;39;MasterCard;Feminino;Solteiro(a);30;Guarapuava
+560;Retorno;5.85;92;Boleto;Feminino;Solteiro(a);24;Maringa
+561;1Compra;7.68;109;Visa;Feminino;Casado(a);29;Colombo
+562;Regular;6.61;57;MasterCard;Masculino;Casado(a);48;Londrina
+563;1Compra;5.56;111;Boleto;Feminino;Casado(a);30;Colombo
+564;1Compra;4.47;22;Boleto;Feminino;Solteiro(a);43;Pato Branco
+565;Regular;5.4;35;MasterCard;Feminino;Casado(a);45;Pato Branco
+566;Regular;5.05;25;Boleto;Feminino;Casado(a);28;Londrina
+567;1Compra;7.59;39;MasterCard;Feminino;Casado(a);62;Toledo
+568;1Compra;5.21;26;Boleto;Feminino;Solteiro(a);33;Toledo
+569;Retorno;5.39;49;Visa;Feminino;Solteiro(a);70;Maringa
+570;Retorno;6.1;42;Visa;Feminino;Casado(a);43;Pato Branco
+571;Retorno;5.18;52;Boleto;Feminino;Casado(a);37;Pato Branco
+572;Retorno;7.51;23;Boleto;Feminino;Casado(a);43;Dois Vizinhos
+573;Retorno;6.19;2;Boleto;Feminino;Casado(a);49;Toledo
+574;Retorno;6.05;25;Boleto;Feminino;Solteiro(a);68;Toledo
+575;1Compra;6.55;61;Boleto;Feminino;Solteiro(a);32;Colombo
+576;Regular;4.56;16;Visa;Feminino;Casado(a);31;Toledo
+577;Retorno;6.18;41;Boleto;Feminino;Solteiro(a);51;Colombo
+578;1Compra;5.77;42;Boleto;Feminino;Casado(a);36;Maringa
+579;1Compra;4.53;52;Boleto;Feminino;Solteiro(a);46;Londrina
+580;1Compra;5.03;24;Boleto;Masculino;Casado(a);49;Toledo
+581;1Compra;6.98;35;Visa;Feminino;Casado(a);37;Colombo
+582;Regular;7.46;15;Boleto;Feminino;Casado(a);37;Guarapuava
+583;Retorno;7.07;14;Boleto;Feminino;Solteiro(a);60;Colombo
+584;Retorno;6.81;36;Boleto;Feminino;Casado(a);39;Guarapuava
+585;Retorno;4.69;10;Boleto;Feminino;Casado(a);67;Colombo
+586;Retorno;7.51;7;Boleto;Feminino;Casado(a);74;Pato Branco
+587;Regular;4.44;57;Boleto;Feminino;Solteiro(a);50;Londrina
+588;1Compra;7.04;53;Boleto;Feminino;Casado(a);62;Maringa
+589;Retorno;4.33;34;Boleto;Feminino;Casado(a);63;Guarapuava
+590;1Compra;7.52;0;Boleto;Feminino;Casado(a);47;Dois Vizinhos
+591;1Compra;7.77;8;Boleto;Feminino;Casado(a);75;Curitiba0
+592;Regular;6.46;21;Boleto;Feminino;Casado(a);46;Toledo
+593;Retorno;7.29;25;Visa;Feminino;Casado(a);67;Pato Branco
+594;1Compra;6.53;58;Boleto;Feminino;Casado(a);22;Curitiba0
+595;1Compra;4.32;41;Boleto;Feminino;Casado(a);50;Londrina
+596;Retorno;4.23;54;Boleto;Feminino;Casado(a);26;Colombo
+597;1Compra;7.35;35;Boleto;Feminino;Casado(a);45;Maringa
+598;Retorno;7.5;24;Boleto;Feminino;Solteiro(a);57;Maringa
+599;Regular;6.48;38;Boleto;Feminino;Casado(a);54;Guarapuava
+600;1Compra;5.37;36;Boleto;Feminino;Solteiro(a);35;Pato Branco
+601;Retorno;4.81;42;Boleto;2;Casado(a);28;Maringa
+602;Retorno;5.21;27;Boleto;Feminino;Casado(a);34;Maringa
+603;1Compra;4.55;25;Visa;Feminino;Casado(a);41;Londrina
+604;Retorno;4.94;10;Visa;Feminino;Casado(a);27;Pato Branco
+605;Regular;6.61;41;Boleto;Feminino;Casado(a);52;Colombo
+606;Retorno;4.73;40;Boleto;Feminino;Casado(a);42;CuritibaCuritiba
+607;Retorno;7.92;60;Boleto;Masculino;Solteiro(a);49;Toledo
+608;Regular;7.67;3;Boleto;Feminino;Casado(a);54;Guarapuava
+609;Retorno;5.7;18;Boleto;Feminino;Casado(a);22;Colombo
+610;Retorno;5.5;27;Boleto;Feminino;Solteiro(a);37;Toledo
+611;Retorno;5.25;25;Boleto;Feminino;Casado(a);39;Curitiba0
+612;Retorno;6.73;45;Boleto;Masculino;Solteiro(a);57;Maringa
+613;Retorno;7.63;26;Boleto;Feminino;Solteiro(a);28;Maringa
+614;Retorno;4.26;35;Boleto;Feminino;Casado(a);46;Curitiba0
+615;Regular;4.22;37;MasterCard;Feminino;Casado(a);48;Colombo
+616;Retorno;5.29;27;Boleto;Masculino;Casado(a);51;Maringa
+617;1Compra;6.97;44;Boleto;Feminino;Casado(a);42;Pato Branco
+618;Retorno;7.84;11;Boleto;Feminino;Casado(a);30;Pato Branco
+619;Retorno;5.66;0;Boleto;Feminino;Casado(a);36;Maringa
+620;Regular;6.34;15;Boleto;Feminino;Solteiro(a);50;Pato Branco
+621;Retorno;4.8;3;Visa;Feminino;Solteiro(a);52;Pato Branco
+622;Retorno;5;24;Boleto;Feminino;Solteiro(a);40;Londrina
+623;Retorno;4.44;45;Visa;Feminino;Solteiro(a);24;Colombo
+624;1Compra;7.66;4;Boleto;Feminino;Casado(a);30;Colombo
+625;Retorno;6.33;117;Boleto;Feminino;Casado(a);56;Toledo
+626;1Compra;4.5;122;Boleto;Feminino;Casado(a);53;Toledo
+627;Retorno;7.95;115;Boleto;Feminino;Casado(a);43;Guarapuava
+628;Regular;4.26;101;Boleto;Feminino;Casado(a);54;Guarapuava
+629;Retorno;7.85;162;Boleto;Feminino;Casado(a);37;Colombo
+630;Retorno;4.35;130;Visa;Feminino;Solteiro(a);55;Guarapuava
+631;Regular;4.67;110;Boleto;Feminino;Solteiro(a);28;Londrina
+632;Retorno;5.09;100;Boleto;Feminino;Casado(a);23;Toledo
+633;Retorno;5.02;135;Boleto;Feminino;Casado(a);31;Guarapuava
+634;1Compra;7.53;133;MasterCard;Feminino;Casado(a);38;Maringa
+635;Retorno;5.53;80;Boleto;Feminino;Casado(a);39;Pato Branco
+636;Retorno;7.65;129;Boleto;Feminino;Casado(a);78;CuritibaLondrina
+637;1Compra;4.79;148;Boleto;Feminino;Casado(a);36;Pato Branco
+638;Retorno;5.31;136;Boleto;Feminino;Solteiro(a);64;Pato Branco
+639;Regular;6.61;95;Boleto;Feminino;Solteiro(a);39;Colombo
+640;Retorno;4.18;99;Boleto;Feminino;Solteiro(a);31;Guarapuava
+641;Regular;8.25;153;Boleto;Feminino;Casado(a);45;Maringa
+642;Retorno;7.1;130;Visa;Feminino;Casado(a);37;Toledo
+643;1Compra;7.9;121;Boleto;Feminino;Solteiro(a);27;Colombo
+644;Retorno;8.02;111;Boleto;Masculino;Casado(a);26;Maringa
+645;Retorno;5.39;160;Boleto;Feminino;Casado(a);36;Maringa
+646;Regular;6.19;170;Boleto;Feminino;Casado(a);48;Toledo
+647;Retorno;4.63;145;Boleto;Feminino;Solteiro(a);47;Maringa
+648;Retorno;6;132;Boleto;Feminino;Solteiro(a);63;Maringa
+649;1Compra;4.11;102;Boleto;Feminino;Casado(a);28;Toledo
+650;1Compra;4.4;128;MasterCard;Feminino;Casado(a);48;Toledo
+651;Retorno;5.96;101;Boleto;Feminino;Casado(a);62;Colombo
+652;1Compra;5.07;155;Boleto;Feminino;Casado(a);59;CuritibaCuritiba
+653;Retorno;5.1;85;Boleto;Feminino;Solteiro(a);63;Maringa
+654;Retorno;4.7;322;Boleto;Feminino;Solteiro(a);43;Pato Branco
+655;Regular;5.39;200;Boleto;Feminino;Casado(a);73;Guarapuava
+656;Retorno;7.31;138;Boleto;Feminino;Solteiro(a);62;Colombo
+657;Retorno;4.28;116;Boleto;Feminino;Solteiro(a);42;Maringa
+658;Retorno;7.06;166;Boleto;2;Solteiro(a);40;Dois Vizinhos
+659;Retorno;5.86;75;Boleto;Masculino;Casado(a);54;Guarapuava
+660;Regular;5.33;153;Boleto;Feminino;Solteiro(a);43;Maringa
+661;Retorno;5.53;230;Boleto;Feminino;Solteiro(a);33;Guarapuava
+662;1Compra;4.59;180;Boleto;Feminino;Solteiro(a);67;Toledo
+663;Retorno;7.85;260;Boleto;Masculino;Casado(a);30;Colombo
+664;Retorno;4.37;21;MasterCard;Feminino;Solteiro(a);49;Colombo
+665;Retorno;7.03;28;Boleto;Feminino;Casado(a);28;Maringa
+666;Retorno;7.02;23;Boleto;Feminino;Casado(a);56;Pato Branco
+667;Retorno;7.32;38;Boleto;Feminino;Casado(a);35;Guarapuava
+668;1Compra;8.32;17;Boleto;Feminino;Solteiro(a);49;Curitiba0
+669;Regular;7.39;47;Visa;Feminino;Casado(a);28;Guarapuava
+670;1Compra;4.82;40;Boleto;Feminino;Casado(a);72;Maringa
+671;Retorno;7.94;17;Boleto;Masculino;Solteiro(a);30;Pato Branco
+672;Regular;7.18;78;Boleto;Feminino;Casado(a);53;Toledo
+673;Retorno;5.25;110;Boleto;Feminino;Casado(a);56;Guarapuava
+674;Regular;5.12;115;Boleto;Feminino;Casado(a);44;Londrina
+675;Retorno;4.99;127;Boleto;Feminino;Casado(a);32;Dois Vizinhos
+676;Retorno;5.22;199;Boleto;Feminino;Casado(a);40;Londrina
+677;1Compra;4.48;170;Boleto;Feminino;Solteiro(a);61;Maringa
+678;Retorno;6.74;128;Boleto;Feminino;Solteiro(a);24;Colombo
+679;Retorno;7.06;131;Boleto;Feminino;Casado(a);29;Pato Branco
+680;Retorno;7.27;127;Boleto;Feminino;Casado(a);65;Toledo
+681;1Compra;6.04;218;Boleto;Masculino;Solteiro(a);50;Pato Branco
+682;Retorno;7.79;375;Boleto;Feminino;Casado(a);41;Toledo
+683;1Compra;4.63;170;Boleto;Masculino;Solteiro(a);34;Toledo
+684;1Compra;4.75;190;Boleto;Feminino;Casado(a);46;Pato Branco
+685;Regular;7.62;150;Boleto;Feminino;Casado(a);62;Pato Branco
+686;1Compra;5.75;395;Boleto;Feminino;Casado(a);33;Toledo
+687;Regular;5.54;70;Boleto;Feminino;Solteiro(a);34;Guarapuava
+688;1Compra;4.24;175;Boleto;Feminino;Solteiro(a);32;Pato Branco
+689;Retorno;6.01;270;Boleto;Feminino;Casado(a);49;Colombo
+690;1Compra;4.25;195;Boleto;Feminino;Solteiro(a);23;Colombo
+691;1Compra;5.33;230;Boleto;Feminino;Solteiro(a);62;Guarapuava
+692;Retorno;5.98;190;Boleto;Feminino;Solteiro(a);56;Maringa
+693;Retorno;4.97;175;Visa;Feminino;Solteiro(a);64;Toledo
+694;1Compra;7.53;170;Boleto;Feminino;Solteiro(a);21;Colombo
+695;Retorno;4.25;270;Boleto;Feminino;Casado(a);56;Dois Vizinhos
+696;Regular;6.8;50;Boleto;Masculino;Solteiro(a);84;Pato Branco
+697;Retorno;5.13;39;Boleto;Feminino;Casado(a);26;Guarapuava
+698;Retorno;5.85;56;Boleto;Feminino;Casado(a);48;Toledo
+699;1Compra;5.67;29;Boleto;Feminino;Solteiro(a);46;Dois Vizinhos
+700;Retorno;6.97;46;Boleto;Masculino;Casado(a);32;Pato Branco
+701;1Compra;6.71;43;Boleto;Feminino;Solteiro(a);39;Toledo
+702;Retorno;4.67;37;Boleto;Feminino;Solteiro(a);54;Colombo
+703;Retorno;5;63;Boleto;Feminino;Solteiro(a);41;Pato Branco
+704;Regular;6.27;73;Boleto;Feminino;Casado(a);38;Curitiba0
+705;Retorno;6.96;40;Boleto;Feminino;Casado(a);30;Pato Branco
+706;Regular;7.41;49;Boleto;Feminino;Casado(a);25;Londrina
+707;Retorno;4.32;47;Boleto;Feminino;Solteiro(a);24;Pato Branco
+708;Regular;7.44;50;Boleto;Feminino;Casado(a);62;Colombo
+709;Regular;4.72;82;Boleto;Feminino;Casado(a);36;Maringa
+710;1Compra;6.49;60;Boleto;Feminino;Casado(a);83;CuritibaColombo
+711;1Compra;5.78;40;Boleto;Feminino;Casado(a);72;Pato Branco
+712;Retorno;7.93;45;Boleto;Masculino;Casado(a);58;Pato Branco
+713;Regular;5.94;25;Boleto;Feminino;Casado(a);21;Dois Vizinhos
+714;1Compra;7.02;55;Boleto;Feminino;Casado(a);33;Maringa
+715;1Compra;6.9;88;Boleto;Masculino;Casado(a);43;Pato Branco
+716;Regular;6.45;63;Boleto;Feminino;Casado(a);34;Pato Branco
+717;1Compra;6.56;80;Visa;Feminino;Casado(a);33;Guarapuava
+718;Retorno;6.9;100;Visa;Feminino;Solteiro(a);19;Colombo
+719;Retorno;6.94;55;Boleto;Feminino;Casado(a);24;Curitiba0
+720;1Compra;4.45;50;Boleto;Feminino;Casado(a);31;Maringa
+721;Retorno;6.66;21;Boleto;Feminino;Solteiro(a);37;Colombo
+722;Regular;6.78;72;Boleto;Feminino;Casado(a);51;Pato Branco
+723;1Compra;7.41;28;Boleto;Feminino;Casado(a);41;Toledo
+724;Regular;5.05;40;Boleto;Feminino;Solteiro(a);46;Pato Branco
+725;1Compra;4.06;25;MasterCard;Feminino;Solteiro(a);61;Toledo
+726;Regular;5.64;33;Visa;Feminino;Casado(a);29;Pato Branco
+727;1Compra;7.84;38;Boleto;Feminino;Casado(a);27;Pato Branco
+728;1Compra;6.09;31;Boleto;Feminino;Casado(a);22;Guarapuava
+729;1Compra;5.62;42;Boleto;Feminino;Casado(a);37;Pato Branco
+730;Retorno;7.55;42;Boleto;Feminino;Casado(a);20;Pato Branco
+731;Retorno;4.07;46;Boleto;Feminino;Solteiro(a);48;Toledo
+732;Regular;6.04;37;Boleto;Feminino;Casado(a);64;Guarapuava
+733;Regular;4.22;65;Boleto;Feminino;Casado(a);51;Maringa
+734;1Compra;7.25;30;Boleto;Feminino;Casado(a);35;Pato Branco
+735;Retorno;5.95;42;Boleto;Feminino;Casado(a);36;Pato Branco
+736;Retorno;7.18;84;MasterCard;Feminino;Solteiro(a);35;Maringa
+737;Retorno;7.53;113;MasterCard;Feminino;Casado(a);71;Pato Branco
+738;Regular;4.16;79;Boleto;Feminino;Solteiro(a);53;Maringa
+739;Retorno;5.77;93;Visa;Feminino;Solteiro(a);42;Colombo
+740;1Compra;6.83;131;Boleto;Feminino;Casado(a);42;Curitiba0
+741;Regular;6.86;103;Boleto;Feminino;Casado(a);49;CuritibaCuritiba
+742;Regular;4.5;102;Visa;Feminino;Casado(a);41;Toledo
+743;1Compra;6.55;76;Boleto;Feminino;Casado(a);34;Toledo
+744;1Compra;5.23;32;Boleto;Feminino;Casado(a);44;Pato Branco
+745;1Compra;8.02;46;Boleto;Feminino;Casado(a);20;Toledo
+746;Retorno;5.07;57;MasterCard;Feminino;Solteiro(a);35;Pato Branco
+747;1Compra;4.92;22;Boleto;Feminino;Solteiro(a);35;Pato Branco
+748;Retorno;4.69;30;Boleto;Feminino;Solteiro(a);52;Colombo
+749;Regular;4.51;60;Boleto;Feminino;Casado(a);59;Guarapuava
+750;Retorno;6.37;65;Boleto;Feminino;Casado(a);31;Toledo
+751;Retorno;6.69;71;Visa;Feminino;Casado(a);18;Colombo
+752;1Compra;4.54;135;Boleto;Feminino;Solteiro(a);32;Maringa
+753;Regular;6.94;65;Boleto;Feminino;Casado(a);19;Maringa
+754;1Compra;4.63;56;Visa;Feminino;Casado(a);20;Pato Branco
+755;1Compra;4.83;72;Boleto;Masculino;Casado(a);47;Guarapuava
+756;Regular;6.68;60;Boleto;Feminino;Solteiro(a);30;Pato Branco
+757;Regular;5.15;29;Visa;Masculino;Solteiro(a);25;Toledo
+758;1Compra;6.47;70;Boleto;Feminino;Casado(a);66;Maringa
+759;1Compra;6.21;59;Boleto;Feminino;Casado(a);37;Maringa
+760;Retorno;4.22;50;Boleto;Feminino;Casado(a);55;Dois Vizinhos
+761;Retorno;4.12;65;Boleto;Feminino;Casado(a);48;Toledo
+762;Retorno;7.72;36;Boleto;Feminino;Casado(a);41;Guarapuava
+763;Retorno;5.64;31;Boleto;Feminino;Casado(a);31;Pato Branco
+764;Retorno;7.89;58;Boleto;Masculino;Casado(a);44;Curitiba0
+765;Retorno;4.54;98;Boleto;2;Casado(a);39;Maringa
+766;1Compra;8.67;60;Boleto;Feminino;Casado(a);27;Pato Branco
+767;Regular;4.46;92;Boleto;Feminino;Casado(a);34;Toledo
+768;Retorno;6.82;80;Boleto;Feminino;Casado(a);43;CuritibaCuritiba
+769;1Compra;5.64;55;Boleto;Feminino;Solteiro(a);42;Guarapuava
+770;1Compra;7.01;64;Boleto;Feminino;Solteiro(a);31;Pato Branco
+771;1Compra;4.7;49;Boleto;Feminino;Casado(a);35;Colombo
+772;1Compra;6.34;56;Boleto;Feminino;Casado(a);47;Guarapuava
+773;Regular;7;52;Boleto;Feminino;Casado(a);35;Colombo
+774;Retorno;5.34;55;Boleto;Feminino;Casado(a);73;Toledo
+775;Retorno;4.19;60;Boleto;Feminino;Casado(a);44;Guarapuava
+776;Retorno;7.38;41;MasterCard;Masculino;Casado(a);32;Guarapuava
+777;Retorno;4.59;62;Boleto;Feminino;Solteiro(a);50;Pato Branco
+778;Regular;4.64;70;Boleto;Feminino;Casado(a);26;Pato Branco
+779;1Compra;7.44;55;Boleto;Feminino;Solteiro(a);32;Pato Branco
+780;Retorno;6.23;57;MasterCard;Feminino;Solteiro(a);28;Londrina
+781;1Compra;6.21;35;Boleto;Feminino;Solteiro(a);52;Pato Branco
+782;1Compra;5.67;40;Boleto;Feminino;Casado(a);59;Guarapuava
+783;Regular;5.62;39;MasterCard;Feminino;Casado(a);50;Pato Branco
+784;Retorno;7.01;65;Boleto;Masculino;Casado(a);37;Guarapuava
+785;1Compra;4.32;38;Boleto;Feminino;Casado(a);38;Colombo
+786;1Compra;6.41;61;Boleto;Feminino;Casado(a);46;CuritibaCuritiba
+787;Retorno;4.76;70;Boleto;Feminino;Solteiro(a);33;Pato Branco
+788;1Compra;5.84;76;Boleto;Feminino;Solteiro(a);43;Guarapuava
+789;Retorno;6.28;69;Boleto;Feminino;Casado(a);32;Pato Branco
+790;Regular;7.78;70;Boleto;Feminino;Casado(a);25;Toledo
+791;1Compra;7.08;36;Visa;Feminino;Solteiro(a);53;Pato Branco
+792;Retorno;6.98;47;Boleto;Feminino;Solteiro(a);27;Guarapuava
+793;Retorno;4.24;53;Boleto;Masculino;Casado(a);36;Maringa
+794;1Compra;4.5;47;Boleto;Feminino;Casado(a);51;Colombo
+795;Retorno;4.95;30;Boleto;Feminino;Solteiro(a);71;Toledo
+796;Regular;5.83;47;Boleto;Feminino;Solteiro(a);32;Maringa
+797;Retorno;4.72;50;Visa;Feminino;Casado(a);56;Guarapuava
+798;Retorno;4.82;45;Boleto;Feminino;Solteiro(a);40;Guarapuava
+799;Regular;4.81;55;Boleto;Feminino;Solteiro(a);37;Colombo
+800;Retorno;7.29;42;Boleto;Feminino;Solteiro(a);63;Pato Branco
+801;Retorno;4.06;51;Boleto;Masculino;Casado(a);37;Pato Branco
+802;Retorno;4.67;60;Boleto;Feminino;Solteiro(a);43;Dois Vizinhos
+803;Retorno;4.07;46;Visa;Feminino;Casado(a);53;Guarapuava
+804;Retorno;6.06;35;Boleto;Feminino;Solteiro(a);28;Toledo
+805;Retorno;5.88;32;Boleto;Feminino;Casado(a);40;Pato Branco
+806;Regular;7.84;41;Boleto;Feminino;Solteiro(a);46;Pato Branco
+807;Retorno;7.36;46;Boleto;Feminino;Casado(a);51;Toledo
+808;1Compra;6.94;35;Boleto;Feminino;Casado(a);26;Colombo
+809;Retorno;6.57;55;Boleto;Feminino;Casado(a);22;Guarapuava
+810;Retorno;5.95;30;Boleto;Masculino;Casado(a);27;Maringa
+811;Regular;6.83;52;Boleto;Feminino;Casado(a);50;Toledo
+812;Retorno;6.93;58;Boleto;Feminino;Casado(a);64;Pato Branco
+813;Retorno;5.04;28;Boleto;Feminino;Casado(a);27;Colombo
+814;Retorno;5.67;50;Boleto;Feminino;Solteiro(a);29;Colombo
+815;1Compra;6.18;33;Boleto;Feminino;Solteiro(a);37;Pato Branco
+816;Retorno;5.51;80;Boleto;Feminino;Solteiro(a);36;Toledo
+817;1Compra;6.88;52;Boleto;Feminino;Casado(a);32;Dois Vizinhos
+818;Retorno;4.88;49;Boleto;Feminino;Casado(a);54;Toledo
+819;Regular;5.97;42;Boleto;Feminino;Solteiro(a);57;Colombo
+820;Retorno;7.19;49;Boleto;Feminino;Solteiro(a);77;Maringa
+821;Retorno;6.87;112;MasterCard;Feminino;Casado(a);50;Pato Branco
+822;Regular;5.45;35;Boleto;Masculino;Casado(a);24;Pato Branco
+823;Retorno;7.83;25;MasterCard;Feminino;Solteiro(a);32;Maringa
+824;Retorno;7.29;30;Boleto;Masculino;Solteiro(a);26;Maringa
+825;1Compra;4.22;133;Boleto;Masculino;Solteiro(a);28;Maringa
+826;Retorno;4.17;52;Boleto;Feminino;Casado(a);57;Colombo
+827;Retorno;4.18;36;Boleto;Feminino;Solteiro(a);55;Maringa
+828;1Compra;6.29;23;Boleto;Feminino;Casado(a);26;Guarapuava
+829;Retorno;6.46;49;Boleto;Feminino;Solteiro(a);48;Pato Branco
+830;Regular;5.52;72;Visa;Feminino;Casado(a);41;Pato Branco
+831;Retorno;6.34;40;Boleto;Feminino;Solteiro(a);38;Curitiba0
+832;Regular;7.13;27;Boleto;Feminino;Casado(a);54;Maringa
+833;Retorno;4.19;50;Boleto;Feminino;Casado(a);53;Maringa
+834;1Compra;5.91;75;Boleto;Feminino;Casado(a);33;Maringa
+835;Retorno;6.48;47;Boleto;Feminino;Casado(a);53;Maringa
+836;Retorno;7.22;43;Boleto;Feminino;Solteiro(a);52;Pato Branco
+837;Regular;4.85;70;Boleto;Feminino;Casado(a);23;Toledo
+838;Retorno;4.93;42;Boleto;Feminino;Solteiro(a);41;Pato Branco
+839;Retorno;6.19;32;Boleto;Feminino;Casado(a);29;Maringa
+840;1Compra;6.75;50;Boleto;Feminino;Solteiro(a);59;Colombo
+841;1Compra;7.52;78;Boleto;Feminino;Casado(a);38;Maringa
+842;Retorno;5.32;105;Boleto;Feminino;Casado(a);42;Maringa
+843;1Compra;7.09;109;Boleto;Feminino;Casado(a);45;Colombo
+844;Retorno;7.79;125;Boleto;Feminino;Casado(a);38;Toledo
+845;Retorno;7.03;50;Visa;Feminino;Casado(a);70;Colombo
+846;Regular;5.33;100;Visa;Feminino;Solteiro(a);29;Toledo
+847;Retorno;4.45;90;Boleto;Feminino;Casado(a);62;Maringa
+848;Retorno;4.79;120;Boleto;Feminino;Solteiro(a);29;Colombo
+849;Retorno;5.34;120;Boleto;Masculino;Casado(a);27;Colombo
+850;Retorno;4.89;126;Boleto;Feminino;Casado(a);24;Maringa
+851;Regular;6.87;60;Boleto;Feminino;Solteiro(a);28;Maringa
+852;Retorno;4.49;63;Boleto;Masculino;Casado(a);40;Colombo
+853;1Compra;6.46;120;Boleto;Feminino;Casado(a);40;Pato Branco
+854;Retorno;5.48;78;Boleto;Feminino;Casado(a);47;Maringa
+855;Retorno;7.44;65;Boleto;Feminino;Casado(a);44;Pato Branco
+856;Retorno;5.18;110;Boleto;Masculino;Solteiro(a);44;Pato Branco
+857;Retorno;4.94;120;Boleto;Feminino;Casado(a);40;Toledo
+858;Retorno;5.11;63;Boleto;Feminino;Casado(a);76;Maringa
+859;1Compra;6.37;76;Boleto;Feminino;Solteiro(a);53;Guarapuava
+860;Regular;4.84;67;Visa;Masculino;Casado(a);47;Guarapuava
+861;1Compra;4.09;90;Boleto;Feminino;Casado(a);64;Guarapuava
+862;Retorno;4.17;96;Boleto;Feminino;Casado(a);44;Pato Branco
+863;Regular;5.88;41;Boleto;Feminino;Solteiro(a);43;Guarapuava
+864;Retorno;6.58;42;Boleto;Feminino;Casado(a);35;Maringa
+865;Regular;8.79;45;Boleto;Feminino;Casado(a);57;Colombo
+866;Retorno;6.01;140;Boleto;Feminino;Solteiro(a);60;Pato Branco
+867;Retorno;5.54;120;Boleto;Feminino;Casado(a);29;Toledo
+868;1Compra;6.71;100;Visa;Feminino;Solteiro(a);68;Pato Branco
+869;Retorno;6.2;130;Boleto;Feminino;Casado(a);49;Colombo
+870;Retorno;6.93;82;MasterCard;Feminino;Solteiro(a);42;Toledo
+871;Retorno;6.52;63;Boleto;Feminino;Solteiro(a);52;Pato Branco
+872;1Compra;6.48;32;MasterCard;Feminino;Casado(a);32;Pato Branco
+873;Retorno;7.27;58;Boleto;Feminino;Casado(a);51;Colombo
+874;1Compra;5.48;35;Boleto;Feminino;Casado(a);52;Pato Branco
+875;1Compra;7.31;42;Boleto;Feminino;Casado(a);23;Pato Branco
+876;Regular;7.89;38;Boleto;Feminino;Casado(a);48;Curitiba0
+877;1Compra;7.16;30;Boleto;Feminino;Casado(a);23;Dois Vizinhos
+878;Regular;4.24;21;Boleto;Feminino;Casado(a);44;Toledo
+879;1Compra;6.46;16.3;Boleto;Feminino;Casado(a);24;Guarapuava
+880;Retorno;7.11;26.1;Boleto;Masculino;Solteiro(a);57;Colombo
+881;1Compra;5.51;35.9;Boleto;Masculino;Solteiro(a);36;Colombo
+882;1Compra;4.48;46.2;Boleto;Feminino;Solteiro(a);26;Toledo
+883;Retorno;6.05;57.4;Boleto;Masculino;Solteiro(a);49;Pato Branco
+884;Retorno;5.38;65.2;Visa;Feminino;Solteiro(a);62;Pato Branco
+885;1Compra;4.88;67.4;Boleto;Feminino;Solteiro(a);34;Guarapuava
+886;Retorno;6.89;67.1;Boleto;Masculino;Casado(a);33;Maringa
+887;Regular;7.3;59.8;Boleto;Feminino;Casado(a);31;Colombo
+888;Retorno;5.02;43.7;Boleto;Feminino;Solteiro(a);41;Maringa
+889;Retorno;6.2;36.3;Boleto;Feminino;Casado(a);40;Maringa
+890;1Compra;7.99;29.4;Boleto;Feminino;Casado(a);50;Toledo
+891;Retorno;7.51;25.9;Boleto;Masculino;Casado(a);39;Pato Branco
+892;1Compra;5.67;36.3;MasterCard;Feminino;Casado(a);48;Colombo
+893;Retorno;4.92;37;Boleto;Feminino;Solteiro(a);68;Pato Branco
+894;Retorno;4.2;41.6;Boleto;Feminino;Casado(a);52;Toledo
+895;Regular;6.67;54.9;Boleto;Feminino;Solteiro(a);42;Maringa
+896;Retorno;6.27;66.2;Boleto;Feminino;Casado(a);67;Toledo
+897;Regular;4.6;72.5;Boleto;Feminino;Casado(a);57;Pato Branco
+898;Retorno;5.8;70.2;Boleto;Feminino;Casado(a);34;Toledo
+899;Regular;4.9;54.2;Boleto;Feminino;Solteiro(a);28;Dois Vizinhos
+900;Regular;7.51;44.9;Boleto;Feminino;Solteiro(a);25;Maringa
+901;1Compra;5.82;36;Boleto;Feminino;Solteiro(a);26;CuritibaCuritiba
+902;1Compra;4.87;27.9;Boleto;Feminino;Solteiro(a);76;Maringa
+903;Retorno;6.62;31.8;Boleto;Feminino;Casado(a);63;Maringa
+904;Regular;4.28;33.6;Boleto;Feminino;Casado(a);44;Dois Vizinhos
+905;1Compra;5.64;35.2;Boleto;Feminino;Casado(a);71;Maringa
+906;1Compra;7.28;45.3;Boleto;Feminino;Casado(a);48;Maringa
+907;Regular;4.96;56.3;Visa;Feminino;Solteiro(a);56;Maringa
+908;1Compra;6.82;58.2;Boleto;Feminino;Casado(a);49;Maringa
+909;Retorno;6.37;69.7;Visa;Feminino;Solteiro(a);31;Toledo
+910;Retorno;4.99;74.1;Boleto;Feminino;Casado(a);71;Pato Branco
+911;1Compra;5.52;55.2;Boleto;Feminino;Casado(a);57;Curitiba0
+912;Retorno;8.05;44.2;Visa;Feminino;Casado(a);28;Curitiba0
+913;Regular;6.16;35.4;Boleto;Feminino;Casado(a);29;Toledo
+914;1Compra;6.63;25.8;Boleto;Feminino;Casado(a);33;Guarapuava
+915;Regular;7;22.6;Boleto;Feminino;Casado(a);21;Colombo
+916;1Compra;8.04;30.7;Boleto;Feminino;Casado(a);35;Maringa
+917;Regular;6.21;41.4;Boleto;Feminino;Solteiro(a);68;Pato Branco
+918;1Compra;6.57;42;Boleto;Feminino;Solteiro(a);46;Colombo
+919;1Compra;6.5;140;Boleto;Feminino;Casado(a);58;Londrina
+920;1Compra;4.72;544;Visa;Masculino;Casado(a);77;Guarapuava
+921;Retorno;6.97;901;Visa;Feminino;Solteiro(a);55;Toledo
+922;Retorno;6.64;100;Boleto;Feminino;Casado(a);36;Maringa
+923;Regular;6.97;862;Boleto;Feminino;Casado(a);37;Pato Branco
+924;Regular;6.06;175;MasterCard;Feminino;Casado(a);43;Colombo
+925;1Compra;4.21;111;Boleto;Feminino;Casado(a);27;Curitiba
+926;Retorno;6.52;594;Boleto;Feminino;Casado(a);42;Londrina
+927;Retorno;6.45;131;Boleto;Feminino;Casado(a);45;Guarapuava
+928;Retorno;4.77;589;Boleto;Feminino;Casado(a);38;Guarapuava
+929;Regular;5.41;54.3;Boleto;Masculino;Casado(a);57;Toledo
+930;Retorno;5;79.9;Boleto;Feminino;Solteiro(a);29;Colombo
+931;1Compra;6.77;57.1;Boleto;Feminino;Casado(a);43;Maringa
+932;Regular;6.61;89.3;Boleto;Feminino;Casado(a);37;Toledo
+933;Regular;5.2;115;Boleto;Feminino;Casado(a);72;Pato Branco
+934;1Compra;4.25;126;Visa;Feminino;Casado(a);33;Dois Vizinhos
+935;1Compra;5.39;76.5;Boleto;Feminino;Casado(a);31;Toledo
+936;1Compra;5.63;81.1;Boleto;Feminino;Casado(a);25;Maringa
+937;Retorno;4.43;56.7;Boleto;Feminino;Casado(a);38;Pato Branco
+938;1Compra;7;138.8;Visa;Feminino;Solteiro(a);69;Toledo
+939;Retorno;7.84;47.9;Boleto;Feminino;Casado(a);27;Maringa
+940;Regular;5.13;42.5;Visa;Feminino;Casado(a);40;Pato Branco
+941;Retorno;7.42;39.4;Boleto;Feminino;Casado(a);24;CuritibaCuritiba
+942;Retorno;7.46;68.9;Boleto;2;Casado(a);38;Colombo
+943;1Compra;4.52;60.3;Boleto;Feminino;Solteiro(a);35;Pato Branco
+944;Regular;5.83;87.7;Boleto;Feminino;Casado(a);49;Guarapuava
+945;1Compra;6.21;46.3;Boleto;Feminino;Casado(a);31;Guarapuava
+946;1Compra;4.87;44.2;Boleto;Masculino;Casado(a);37;Guarapuava
+947;Regular;5.46;84.4;Boleto;Feminino;Solteiro(a);50;Colombo
+948;Regular;4.26;64.1;Boleto;Feminino;Casado(a);59;Dois Vizinhos
+949;1Compra;6.24;115.3;MasterCard;Feminino;Solteiro(a);34;Maringa
+950;1Compra;5.07;40.7;Boleto;Feminino;Casado(a);54;Guarapuava
+951;Retorno;4.61;79.2;Boleto;Feminino;Casado(a);57;Toledo
+952;Retorno;5.66;39.5;Boleto;Feminino;Casado(a);37;Pato Branco
+953;Retorno;6.19;14.7;Visa;Feminino;Solteiro(a);74;Toledo
+954;Retorno;7.47;24.1;Boleto;Masculino;Casado(a);23;Maringa
+955;Retorno;7.38;117.3;MasterCard;Feminino;Solteiro(a);38;Toledo
+956;Retorno;5.2;67.9;Boleto;Masculino;Solteiro(a);36;Pato Branco
+957;1Compra;7.19;73.2;Boleto;Feminino;Casado(a);59;Pato Branco
+958;Regular;5.8;63.7;Boleto;Feminino;Solteiro(a);25;Maringa
+959;Retorno;4.96;36.1;Boleto;Feminino;Casado(a);45;Colombo
+960;1Compra;6.26;58.6;Visa;Feminino;Casado(a);40;Guarapuava
+961;1Compra;7.66;97.2;Visa;Feminino;Solteiro(a);60;Pato Branco
+962;1Compra;4.62;41.8;Visa;Feminino;Casado(a);34;Toledo
+963;1Compra;5.07;93.9;Boleto;Feminino;Casado(a);35;Pato Branco
+964;Regular;7.23;21.8;Boleto;Feminino;Casado(a);26;Colombo
+965;Retorno;7.59;17.3;Boleto;Feminino;Solteiro(a);22;Curitiba0
+966;Retorno;7.94;65.9;Boleto;Feminino;Casado(a);25;Colombo
+967;Retorno;6.87;32.4;Boleto;Feminino;Casado(a);68;Colombo
+968;Retorno;7.31;61.1;Boleto;Feminino;Casado(a);55;Toledo
+969;Regular;4.86;326;Boleto;Masculino;Solteiro(a);22;Curitiba0
+970;1Compra;5.82;202;Boleto;Feminino;Casado(a);70;Guarapuava
+971;Retorno;5.41;215;Boleto;Feminino;Casado(a);23;Guarapuava
+972;1Compra;7.44;609;Boleto;Masculino;Solteiro(a);30;Toledo
+973;1Compra;4.23;600;Boleto;Feminino;Casado(a);44;Pato Branco
+974;Regular;7.29;764;Boleto;Feminino;Casado(a);54;Maringa
+975;Retorno;5.58;304;Boleto;Feminino;Casado(a);37;Pato Branco
+976;1Compra;7.16;252;Boleto;Feminino;Casado(a);61;Colombo
+977;1Compra;6.53;746;Boleto;Feminino;Solteiro(a);30;Pato Branco
+978;Retorno;5.54;629;MasterCard;Feminino;Casado(a);27;Toledo
+979;1Compra;6.87;37;Visa;Feminino;Solteiro(a);31;Guarapuava
+980;Retorno;4.72;41.6;Boleto;Feminino;Casado(a);41;Toledo
+981;Regular;4.86;54.9;MasterCard;2;Casado(a);45;CuritibaCuritiba
+982;1Compra;7.67;66.2;Boleto;Feminino;Casado(a);26;Curitiba
+983;Retorno;6.75;72.5;Boleto;Feminino;Casado(a);35;Pato Branco
+984;Retorno;5.45;70.2;Visa;Feminino;Casado(a);61;Maringa
+985;1Compra;8.01;54.2;Boleto;Feminino;Solteiro(a);28;Colombo
+986;Retorno;6.98;44.9;MasterCard;Feminino;Solteiro(a);55;Maringa
+987;Regular;4.25;36;Boleto;Feminino;Solteiro(a);82;Pato Branco
+988;Retorno;5.51;27.9;MasterCard;Feminino;Casado(a);62;Colombo
+989;Retorno;5.65;31.8;Boleto;Feminino;Solteiro(a);57;Colombo
+990;Regular;6.62;33.6;MasterCard;Feminino;Casado(a);40;Colombo
+991;Retorno;7.37;35.2;Boleto;Feminino;Casado(a);73;Guarapuava
+992;Retorno;4.26;45.3;Boleto;Feminino;Casado(a);37;Guarapuava
+993;Retorno;7.8;56.3;Visa;Feminino;Solteiro(a);89;Toledo
+994;Retorno;4.32;58.2;Boleto;Feminino;Solteiro(a);47;Dois Vizinhos
+995;Retorno;5.87;69.7;Boleto;Feminino;Solteiro(a);26;Colombo
+996;Retorno;4.2;74.1;Boleto;Feminino;Solteiro(a);30;Pato Branco
+997;Regular;5.44;55.2;MasterCard;Feminino;Solteiro(a);35;Toledo
+998;Retorno;7.65;44.2;Boleto;Feminino;Casado(a);39;Toledo
+999;1Compra;6.44;35.4;Boleto;Masculino;Solteiro(a);50;Maringa
+1000;Retorno;7.77;25.8;Boleto;Feminino;Casado(a);69;Maringa
+1001;Retorno;4.65;22.6;Boleto;Feminino;Solteiro(a);32;Londrina
+1002;Regular;7.54;30.7;Boleto;Feminino;Casado(a);22;Londrina
+1003;Retorno;7.25;29.5;Boleto;Feminino;Casado(a);63;Maringa
+1004;Retorno;6.02;31.6;Boleto;Feminino;Solteiro(a);39;Pato Branco
+1005;Retorno;5.06;160.4;Boleto;Feminino;Casado(a);27;Pato Branco
+1006;1Compra;4.72;64.5;Boleto;Feminino;Casado(a);70;Maringa
+1007;Retorno;4.91;49.5;Boleto;Feminino;Casado(a);43;Pato Branco
+1008;1Compra;4.37;71.4;Boleto;Feminino;Casado(a);31;Colombo
+1009;Retorno;7.14;94;Boleto;Feminino;Casado(a);55;Colombo
+1010;Regular;5.6;54.5;Boleto;Feminino;Casado(a);43;Toledo
+1011;Retorno;5.34;38.5;Boleto;Feminino;Casado(a);39;Pato Branco
+1012;Retorno;4.45;44.8;Boleto;Feminino;Casado(a);24;Maringa
+1013;Regular;7.09;31.6;Boleto;Feminino;Solteiro(a);66;Colombo
+1014;Retorno;4.3;70.82;Boleto;Feminino;Casado(a);53;Pato Branco
+1015;Retorno;4.17;266;Boleto;Feminino;Casado(a);34;Guarapuava
+1016;1Compra;7.32;74;Boleto;Feminino;Casado(a);32;Guarapuava
+1017;Retorno;7.74;39.5;Boleto;Feminino;Solteiro(a);33;Maringa
+1018;Retorno;4.27;30.02;Boleto;Masculino;Solteiro(a);78;Maringa
+1019;1Compra;5.23;44.5;Boleto;Feminino;Casado(a);51;Colombo
+1020;Retorno;5.07;192.8;Boleto;Feminino;Solteiro(a);35;Toledo
+1021;Regular;4.29;71.2;Visa;Feminino;Casado(a);29;Londrina
+1022;Retorno;7.63;18;Visa;Feminino;Casado(a);34;Pato Branco
+1023;Regular;6.33;63.2;Boleto;Feminino;Casado(a);31;Guarapuava
+1024;Retorno;5.91;75;Visa;Masculino;Casado(a);38;Toledo
+1025;1Compra;5.41;63.2;Visa;Feminino;Casado(a);25;Colombo
+1026;Retorno;6.38;40;MasterCard;Feminino;Casado(a);65;Maringa
+1027;Retorno;7.32;105.5;Boleto;Feminino;Solteiro(a);68;Colombo
+1028;Regular;8;29.5;Boleto;Feminino;Casado(a);41;Curitiba0
+1029;Retorno;4.35;102.5;Boleto;Feminino;Casado(a);27;Toledo
+1030;Retorno;7.58;117.5;Boleto;Masculino;Solteiro(a);33;Pato Branco
+1031;1Compra;4.81;13.23;Boleto;Feminino;Casado(a);30;Guarapuava
+1032;1Compra;7.03;52.5;Boleto;Feminino;Casado(a);33;Maringa
+1033;Retorno;4.67;198.8;Visa;Feminino;Casado(a);31;Pato Branco
+1034;1Compra;6.59;19.5;Boleto;Feminino;Solteiro(a);23;Guarapuava
+1035;Retorno;7.06;123.5;Boleto;Feminino;Solteiro(a);27;Maringa
+1036;Retorno;4.73;62.4;Boleto;Feminino;Casado(a);43;Maringa
+1037;Regular;7.26;23.8;Boleto;Feminino;Solteiro(a);63;Colombo
+1038;Retorno;4.64;39.6;Boleto;Feminino;Solteiro(a);45;Dois Vizinhos
+1039;Retorno;4.87;25;Boleto;Feminino;Solteiro(a);57;Colombo
+1040;Retorno;7.4;63.64;Boleto;Masculino;Casado(a);32;Toledo
+1041;Retorno;7.18;14.82;Boleto;Feminino;Casado(a);0;Maringa
+1042;Regular;4.63;145.2;Boleto;Feminino;Solteiro(a);34;Toledo
+1043;Retorno;7.11;176.62;Visa;Feminino;Casado(a);62;Maringa
+1044;1Compra;5.59;118.8;Boleto;Feminino;Casado(a);53;Pato Branco
+1045;Retorno;7.1;58;Boleto;Feminino;Casado(a);40;Guarapuava
+1046;Retorno;5.49;74;Boleto;Feminino;Casado(a);23;Toledo
+1047;Retorno;6.27;49.5;Boleto;Feminino;Casado(a);23;Toledo
+1048;Retorno;4.15;141.6;Boleto;Feminino;Casado(a);0;Guarapuava
+1049;Retorno;7.8;123.1;Boleto;Feminino;Casado(a);56;Toledo
+1050;1Compra;6.32;80.4;Boleto;Feminino;Casado(a);38;Maringa
+1051;Regular;6.09;65.2;MasterCard;Feminino;Casado(a);37;Pato Branco
+1052;1Compra;5.56;113;Boleto;Feminino;Solteiro(a);46;Pato Branco
+1053;Retorno;6.42;108.8;Boleto;Masculino;Solteiro(a);44;Pato Branco
+1054;Regular;7.95;59.91;Boleto;Feminino;Casado(a);28;Pato Branco
+1055;Retorno;7.14;53.6;Visa;Feminino;Casado(a);29;Pato Branco
+1056;Regular;5.98;31.6;Visa;Feminino;Casado(a);25;Londrina
+1057;Retorno;5.1;49.5;Boleto;Feminino;Casado(a);46;Maringa
+1058;Retorno;7.87;39.6;Visa;Feminino;Casado(a);21;Colombo
+1059;1Compra;6.28;59.5;Visa;Feminino;Solteiro(a);28;Toledo
+1060;Retorno;7.78;146.8;Boleto;Feminino;Casado(a);40;Maringa
+1061;Retorno;5.22;47.2;Boleto;Feminino;Casado(a);28;Guarapuava
+1062;Retorno;6.87;95.05;Boleto;Feminino;Solteiro(a);57;Pato Branco
+1063;1Compra;7.11;155.32;Boleto;Feminino;Solteiro(a);64;Pato Branco
+1064;Retorno;6.61;58;Boleto;Feminino;Casado(a);29;Maringa
+1065;1Compra;5.12;69;Visa;Feminino;Solteiro(a);30;Guarapuava
+1066;1Compra;7.24;46.5;Boleto;Feminino;Casado(a);38;Colombo
+1067;Regular;7.76;45.22;MasterCard;Feminino;Casado(a);55;Pato Branco
+1068;1Compra;8.09;84.74;Boleto;Feminino;Solteiro(a);60;Maringa
+1069;Regular;5.69;39;Boleto;Feminino;Casado(a);20;Pato Branco
+1070;1Compra;8.03;111.14;Boleto;Feminino;Casado(a);35;Guarapuava
+1071;Retorno;4.78;86.8;MasterCard;Feminino;Casado(a);60;Maringa
+1072;1Compra;4.92;89;Boleto;Feminino;Casado(a);22;Colombo
+1073;1Compra;6.19;78;Boleto;Feminino;Solteiro(a);42;Curitiba0
+1074;Retorno;5.4;53.2;Boleto;Feminino;Casado(a);32;Toledo
+1075;Retorno;4.93;58.5;Boleto;Feminino;Casado(a);28;Colombo
+1076;1Compra;4.17;46;MasterCard;Feminino;Solteiro(a);26;Maringa
+1077;Retorno;6.88;37.5;Boleto;Feminino;Casado(a);45;Colombo
+1078;Regular;6.75;20.8;Boleto;Feminino;Casado(a);61;Guarapuava
+1079;Retorno;5.4;144;Boleto;Feminino;Casado(a);52;Maringa
+1080;Retorno;5.83;107;MasterCard;Feminino;Casado(a);38;Colombo
+1081;1Compra;7.88;31.6;Visa;Feminino;Casado(a);21;Londrina
+1082;Retorno;4.17;57.6;Visa;Feminino;Solteiro(a);39;Colombo
+1083;1Compra;4.59;95.2;Visa;Feminino;Casado(a);27;Pato Branco
+1084;Retorno;7.59;22.42;MasterCard;Feminino;Casado(a);58;Pato Branco
+1085;Retorno;7.44;159.75;Boleto;Feminino;Solteiro(a);61;Londrina
+1086;Regular;6.55;229.5;Boleto;Feminino;Casado(a);42;Toledo
+1087;Retorno;7.68;66;Boleto;Masculino;Solteiro(a);61;Toledo
+1088;Regular;7.47;39.5;Boleto;Feminino;Casado(a);39;Maringa
+1089;Retorno;4.75;253;Visa;Feminino;Solteiro(a);25;Pato Branco
+1090;Regular;6.37;287.59;MasterCard;Feminino;Casado(a);51;Pato Branco
+1091;Regular;5;47.6;Boleto;Feminino;Casado(a);29;Colombo
+1092;1Compra;5.22;28.44;Boleto;Feminino;Solteiro(a);28;Toledo
+1093;1Compra;6.46;75;Boleto;Feminino;Solteiro(a);27;Toledo
+1094;Retorno;4.17;67;Boleto;Feminino;Casado(a);35;Colombo
+1095;Regular;7.4;32;Boleto;Feminino;Casado(a);51;Toledo
+1096;1Compra;4.67;77;Boleto;Feminino;Casado(a);42;Colombo
+1097;1Compra;5.92;13;Boleto;Feminino;Solteiro(a);36;Maringa
+1098;Regular;7.31;50;Boleto;Feminino;Solteiro(a);59;Londrina
+1099;1Compra;4.7;90;MasterCard;Feminino;Casado(a);58;Toledo
+1100;Retorno;6.86;61;Boleto;Feminino;Casado(a);51;Colombo
+1101;Retorno;6.38;26;Boleto;Feminino;Casado(a);25;Guarapuava
+1102;1Compra;4.81;41;Boleto;Feminino;Casado(a);37;Colombo
+1103;Retorno;7.4;70;Boleto;Feminino;Casado(a);53;Guarapuava
+1104;Regular;5.49;45;Boleto;Feminino;Solteiro(a);22;Colombo
+1105;1Compra;5.24;30;Boleto;Feminino;Casado(a);56;Pato Branco
+1106;Regular;7.23;60;Boleto;Feminino;Casado(a);33;Londrina
+1107;1Compra;5.73;69;Boleto;Feminino;Casado(a);35;Maringa
+1108;Regular;6.23;75;Visa;Masculino;Casado(a);24;Guarapuava
+1109;1Compra;6.38;101;Boleto;Feminino;Casado(a);32;Colombo
+1110;1Compra;5.97;72;Boleto;Masculino;Casado(a);6;Curitiba0
+1111;1Compra;6.14;48;Boleto;Feminino;Casado(a);29;Toledo
+1112;Retorno;5.72;57;Boleto;Feminino;Casado(a);41;Pato Branco
+1113;Retorno;5.92;58;Boleto;Feminino;Casado(a);21;Curitiba0
+1114;Regular;4.73;63;Boleto;Masculino;Casado(a);53;Londrina
+1115;Regular;7.45;64;MasterCard;Feminino;Casado(a);32;Colombo
+1116;1Compra;7.67;90;Boleto;Feminino;Casado(a);30;Maringa
+1117;Retorno;6.25;30;Boleto;Feminino;Solteiro(a);19;Maringa
+1118;Retorno;5.77;90;Visa;Feminino;Solteiro(a);38;Guarapuava
+1119;Retorno;4.69;89;Visa;Feminino;Solteiro(a);48;Pato Branco
+1120;Regular;7.82;77;Boleto;Feminino;Solteiro(a);66;Maringa
+1121;Retorno;7.69;103;Boleto;Feminino;Casado(a);59;Maringa
+1122;1Compra;7.43;115;Boleto;Feminino;Casado(a);34;Londrina
+1123;Regular;6.77;79;Visa;Feminino;Solteiro(a);23;Pato Branco
+1124;Regular;5.36;66;Visa;Feminino;Casado(a);60;Colombo
+1125;1Compra;4.82;35;Boleto;Feminino;Casado(a);24;CuritibaCuritiba
+1126;1Compra;7.8;113;MasterCard;Feminino;Solteiro(a);55;Toledo
+1127;1Compra;4.22;81;MasterCard;Feminino;Casado(a);43;Guarapuava
+1128;Retorno;4.36;56;Boleto;Feminino;Solteiro(a);75;Colombo
+1129;1Compra;4.41;144;Boleto;Feminino;Casado(a);66;Toledo
+1130;Retorno;6.97;107;Boleto;Feminino;Casado(a);25;Curitiba0
+1131;Regular;4.92;87;Boleto;Feminino;Solteiro(a);32;Maringa
+1132;Retorno;6.99;42;MasterCard;Feminino;Solteiro(a);21;Maringa
+1133;Retorno;4.72;71;Boleto;Feminino;Casado(a);49;Curitiba0
+1134;1Compra;6.45;66;Boleto;Feminino;Casado(a);51;Colombo
+1135;Regular;6.09;58;Boleto;Feminino;Solteiro(a);55;Maringa
+1136;1Compra;5.97;160;Visa;Feminino;Casado(a);25;Pato Branco
+1137;1Compra;4.25;56;Boleto;Feminino;Casado(a);71;Pato Branco
+1138;Regular;6.64;75;Boleto;Feminino;Casado(a);41;Maringa
+1139;Regular;4.82;65;Boleto;Feminino;Solteiro(a);51;Pato Branco
+1140;1Compra;6.01;95;Boleto;Feminino;Casado(a);55;Pato Branco
+1141;1Compra;4.06;105;Boleto;Feminino;Casado(a);36;Londrina
+1142;Retorno;4.69;61;Boleto;Feminino;Casado(a);46;Colombo
+1143;Retorno;6.27;113;Boleto;Feminino;Casado(a);22;Colombo
+1144;Retorno;5.82;85;Boleto;Feminino;Casado(a);50;Toledo
+1145;Retorno;4.28;119;Boleto;Feminino;Casado(a);40;Toledo
+1146;Retorno;5.47;53;Boleto;Feminino;Casado(a);36;Guarapuava
+1147;Regular;6.29;33;MasterCard;Feminino;Casado(a);85;Guarapuava
+1148;Regular;6.93;51;Boleto;Feminino;Solteiro(a);53;Colombo
+1149;Regular;6;140;Visa;Feminino;Solteiro(a);32;Guarapuava
+1150;Regular;4.45;82;Boleto;Feminino;Solteiro(a);41;Londrina
+1151;Regular;4.43;122;Boleto;Feminino;Solteiro(a);30;Toledo
+1152;Regular;4.55;55;Boleto;Feminino;Casado(a);61;Guarapuava
+1153;Regular;7.67;121;Boleto;Feminino;Solteiro(a);47;Maringa
+1154;Regular;6.76;87;Boleto;Feminino;Casado(a);36;Pato Branco
+1155;Regular;5.49;146;Boleto;Feminino;Casado(a);56;CuritibaLondrina
+1156;Regular;7.37;41;Boleto;Feminino;Solteiro(a);63;Pato Branco
+1157;1Compra;7.3;91;Visa;Feminino;Solteiro(a);29;Pato Branco
+1158;Regular;5.43;95;Boleto;Feminino;Solteiro(a);31;Colombo
+1159;Regular;7.44;105;Boleto;Masculino;Solteiro(a);28;Guarapuava
+1160;Regular;7.74;62;Boleto;Feminino;Solteiro(a);46;Maringa
+1161;Regular;7.27;104;Boleto;Feminino;Casado(a);20;Toledo
+1162;Regular;7.18;57;Boleto;Feminino;Casado(a);30;Colombo
+1163;Regular;6.47;75;Boleto;Feminino;Solteiro(a);34;Maringa
+1164;Regular;6.09;68;Boleto;Feminino;Solteiro(a);50;Maringa
+1165;Regular;5.21;77.2;Boleto;Feminino;Solteiro(a);24;Toledo
+1166;Regular;4.44;76.2;Boleto;Feminino;Solteiro(a);68;Maringa
+1167;Regular;7.34;66.1;Boleto;Feminino;Casado(a);52;Maringa
+1168;Regular;7.84;66.3;Boleto;Feminino;Casado(a);27;Toledo
+1169;Regular;7.8;74.4;MasterCard;Feminino;Solteiro(a);44;Toledo
+1170;1Compra;6.35;79.9;Boleto;Masculino;Casado(a);30;Colombo
+1171;Regular;5.05;75.1;Visa;Feminino;Casado(a);42;CuritibaCuritiba
+1172;Regular;6.87;60.4;Boleto;Feminino;Solteiro(a);33;Maringa
+1173;1Compra;6.83;63.6;MasterCard;Feminino;Casado(a);43;Pato Branco
+1174;Regular;7.18;75.8;Boleto;Feminino;Casado(a);71;Guarapuava
+1175;Regular;5.94;71.2;Boleto;Feminino;Casado(a);25;Colombo
+1176;Regular;6.63;77.2;Visa;Feminino;Solteiro(a);36;Maringa
+1177;Regular;6.46;62.7;MasterCard;Feminino;Casado(a);30;Colombo
+1178;Regular;4.93;62.5;Boleto;Feminino;Casado(a);42;Guarapuava
+1179;Regular;6.48;67.4;Boleto;Feminino;Casado(a);39;Maringa
+1180;Regular;4.36;67.5;Boleto;Feminino;Casado(a);57;Guarapuava
+1181;Regular;5.64;26.9;Boleto;Feminino;Casado(a);29;Toledo
+1182;Regular;4.65;27.2;MasterCard;Feminino;Solteiro(a);56;Colombo
+1183;Regular;5.74;28.3;Boleto;Feminino;Solteiro(a);31;Colombo
+1184;Regular;6.2;24.5;MasterCard;Feminino;Casado(a);31;Maringa
+1185;Regular;4.09;25.2;Boleto;Feminino;Solteiro(a);1;Pato Branco
+1186;Regular;7.19;28.1;Boleto;Feminino;Casado(a);31;Guarapuava
+1187;Regular;5.68;23.9;Boleto;Feminino;Solteiro(a);69;Curitiba0
+1188;Regular;6.69;28.6;Boleto;Feminino;Solteiro(a);47;Guarapuava
+1189;Regular;4.71;23.7;Boleto;Feminino;Solteiro(a);66;Maringa
+1190;Regular;7.11;24.5;Boleto;Feminino;Casado(a);65;Pato Branco
+1191;Regular;7.51;29.9;Boleto;Feminino;Casado(a);50;Toledo
+1192;Regular;4.38;26.4;Boleto;Feminino;Casado(a);29;Guarapuava
+1193;Regular;6.8;28;Boleto;Feminino;Casado(a);59;Londrina
+1194;Regular;4.05;20.7;Boleto;Feminino;Casado(a);39;Colombo
+1195;Regular;6.03;29.9;Visa;Feminino;Solteiro(a);30;Londrina
+1196;1Compra;7.13;29.8;Visa;Feminino;Casado(a);48;Maringa
+1197;1Compra;7.97;27.4;Boleto;Feminino;Solteiro(a);45;Colombo
+1198;Regular;7.4;28.4;Boleto;Feminino;Casado(a);25;Pato Branco
+1199;Regular;6.31;26.7;Boleto;Feminino;Solteiro(a);36;Toledo
+1200;1Compra;6.68;26.9;MasterCard;Feminino;Solteiro(a);43;Pato Branco
+1201;Regular;6.11;21.6;Boleto;Masculino;Solteiro(a);54;Toledo
+1202;Regular;4.73;27.4;Boleto;Feminino;Solteiro(a);51;Toledo
+1203;Regular;4.62;27.1;Boleto;Feminino;Solteiro(a);58;Pato Branco
+1204;1Compra;4.29;28.1;Boleto;Feminino;Casado(a);37;Pato Branco
+1205;Regular;5.21;28.2;Boleto;Feminino;Casado(a);58;Toledo
+1206;1Compra;6.86;29.6;Boleto;Feminino;Solteiro(a);49;Guarapuava
+1207;Regular;5.94;24.8;Boleto;Feminino;Solteiro(a);30;Pato Branco
+1208;Regular;6.78;23.4;Boleto;Feminino;Casado(a);63;Colombo
+1209;Regular;5.57;23.8;Boleto;Feminino;Casado(a);51;Colombo
+1210;1Compra;4.78;23.1;Visa;Feminino;Casado(a);31;Guarapuava
+1211;1Compra;8;21.4;Boleto;Masculino;Solteiro(a);37;Maringa
+1212;Regular;6.89;26.7;Boleto;Masculino;Casado(a);48;Toledo
+1213;Regular;5.2;24;Boleto;Feminino;Solteiro(a);58;Colombo
+1214;Regular;6.93;26.2;Boleto;Feminino;Casado(a);53;Colombo
+1215;Regular;8.05;25.1;Boleto;Feminino;Casado(a);37;Pato Branco
+1216;Regular;7.43;22.8;Boleto;Feminino;Solteiro(a);60;Guarapuava
+1217;Regular;5.97;22.4;Boleto;Feminino;Solteiro(a);64;Toledo
+1218;Regular;6.66;23.6;Boleto;Feminino;Casado(a);46;Colombo
+1219;Regular;6.5;23.2;Boleto;Feminino;Casado(a);40;Pato Branco
+1220;Regular;6.87;20.1;Boleto;Feminino;Casado(a);28;Toledo
+1221;Regular;7.36;29.2;Boleto;Feminino;Solteiro(a);42;Colombo
+1222;Regular;7.17;25.2;Boleto;Feminino;Casado(a);41;Pato Branco
+1223;Regular;7.56;29;Boleto;Masculino;Solteiro(a);37;Curitiba0
+1224;Regular;5.98;23.3;Boleto;Feminino;Casado(a);36;Pato Branco
+1225;Regular;4.92;27.2;Boleto;Feminino;Casado(a);48;Londrina
+1226;Regular;4.82;29.6;Visa;Feminino;Solteiro(a);26;Pato Branco
+1227;Regular;6.92;29.9;Boleto;Feminino;Casado(a);56;Colombo
+1228;Regular;5.18;26.4;Boleto;Feminino;Casado(a);36;Maringa
+1229;Regular;4.75;22;MasterCard;Feminino;Casado(a);43;CuritibaColombo
+1230;Regular;5.09;22.8;Boleto;Feminino;Solteiro(a);71;Pato Branco
+1231;1Compra;6.74;21.1;Boleto;Feminino;Casado(a);35;Pato Branco
+1232;1Compra;4.24;26.1;Visa;Feminino;Casado(a);20;Colombo
+1233;Regular;6.97;25.4;Boleto;Feminino;Casado(a);18;Maringa
+1234;1Compra;7.31;25;Visa;Feminino;Casado(a);47;Pato Branco
+1235;1Compra;7.87;26.9;MasterCard;Feminino;Casado(a);39;Pato Branco
+1236;Regular;5.9;21.3;Boleto;Feminino;Casado(a);55;Guarapuava
+1237;1Compra;5.38;24.5;Visa;Feminino;Casado(a);50;Colombo
+1238;1Compra;6.25;27.2;Boleto;Feminino;Casado(a);25;Curitiba0
+1239;Regular;7.7;23;Boleto;Feminino;Casado(a);35;Maringa
+1240;1Compra;7.02;25.4;Boleto;Masculino;Casado(a);29;Colombo
+1241;Regular;5.56;20.8;Boleto;Feminino;Casado(a);49;Pato Branco
+1242;1Compra;5.81;26.3;Boleto;Feminino;Solteiro(a);29;Toledo
+1243;Regular;5.49;24.2;Boleto;Feminino;Casado(a);53;Pato Branco
+1244;Regular;7.02;21.9;Boleto;Feminino;Solteiro(a);61;Toledo
+1245;Regular;4.15;22.6;Boleto;Feminino;Casado(a);29;Pato Branco
+1246;Regular;7.5;26.1;Boleto;Feminino;Casado(a);21;Pato Branco
+1247;1Compra;6.68;20.8;Boleto;Feminino;Casado(a);33;Guarapuava
+1248;Regular;5.79;22.6;Visa;Feminino;Solteiro(a);37;Pato Branco
+1249;Regular;5.37;27.4;MasterCard;Feminino;Solteiro(a);22;Pato Branco
+1250;Regular;5.35;20.4;Boleto;Feminino;Casado(a);44;Toledo
+1251;Regular;7.01;28.1;Boleto;Feminino;Casado(a);0;Guarapuava
+1252;Regular;6.14;29.2;Boleto;Feminino;Solteiro(a);36;Maringa
+1253;1Compra;7.64;21.5;Boleto;Masculino;Casado(a);42;Pato Branco
+1254;Regular;6.46;29.9;Boleto;Feminino;Casado(a);60;Pato Branco
+1255;1Compra;6.14;24.2;Boleto;Feminino;Casado(a);40;Maringa
+1256;Regular;6.74;24.6;Boleto;Feminino;Casado(a);34;Pato Branco
+1257;1Compra;6.39;29.9;Boleto;Feminino;Solteiro(a);43;Maringa
+1258;Regular;6.73;20.5;Boleto;Feminino;Casado(a);54;Colombo
+1259;1Compra;4.49;29.1;Boleto;Feminino;Solteiro(a);52;Curitiba0
+1260;Regular;6.42;21.5;Visa;Feminino;Solteiro(a);58;CuritibaCuritiba
+1261;Regular;6.47;24.1;Boleto;Feminino;Casado(a);72;Toledo
+1262;Regular;7.15;70.8;Boleto;Feminino;Casado(a);49;Toledo
+1263;Regular;4.97;69.9;Boleto;Feminino;Casado(a);34;Pato Branco
+1264;Regular;6.97;66.5;Boleto;Masculino;Casado(a);32;Toledo
+1265;Regular;6.9;65.5;Boleto;Feminino;Solteiro(a);35;Pato Branco
+1266;Regular;6.23;61.3;Boleto;Feminino;Casado(a);32;Pato Branco
+1267;Regular;7.28;68;Boleto;Feminino;Casado(a);31;Colombo
+1268;Regular;8.95;77.2;Boleto;Feminino;Casado(a);48;Guarapuava
+1269;Regular;5.86;76.2;Boleto;Masculino;Casado(a);40;Toledo
+1270;Regular;4.72;79.9;Boleto;Feminino;Solteiro(a);76;Colombo
+1271;Regular;6.9;75.1;Boleto;Feminino;Solteiro(a);40;Maringa
+1272;Regular;8.46;60.4;Boleto;Feminino;Casado(a);25;Maringa
+1273;Regular;5.54;77.3;Visa;Feminino;Casado(a);39;Pato Branco
+1274;1Compra;5.48;69.5;MasterCard;Feminino;Casado(a);34;Guarapuava
+1275;1Compra;5.78;60.3;Visa;Feminino;Solteiro(a);54;Pato Branco
+1276;Regular;6.82;78.4;Visa;Feminino;Solteiro(a);41;Toledo
+1277;Regular;6.71;72.5;Boleto;Feminino;Casado(a);45;Maringa
+1278;Regular;4.7;71.3;Boleto;Feminino;Casado(a);16;Maringa
+1279;Regular;4.83;62.1;Boleto;Feminino;Casado(a);31;Colombo
+1280;Regular;6.76;66.4;Boleto;Feminino;Casado(a);37;Toledo
+1281;Regular;6.24;61.5;MasterCard;Feminino;Casado(a);54;Guarapuava
+1282;Regular;5.23;68.1;Boleto;Feminino;Casado(a);43;Pato Branco
+1283;Regular;6.21;70.4;Boleto;Feminino;Solteiro(a);42;Curitiba0
+1284;Regular;4.74;69.1;Boleto;Feminino;Casado(a);32;Maringa
+1285;1Compra;4.9;23.5;Boleto;Masculino;Solteiro(a);53;Pato Branco
+1286;Regular;7.46;28.9;Boleto;Feminino;Casado(a);31;Toledo
+1287;Regular;7.84;23.9;Boleto;Feminino;Casado(a);24;CuritibaCuritiba
+1288;1Compra;5.05;29.8;MasterCard;Feminino;Casado(a);47;Guarapuava
+1289;Regular;5.78;27.2;Visa;Feminino;Casado(a);31;Pato Branco
+1290;Regular;6.23;20.9;Boleto;Feminino;Casado(a);27;Colombo
+1291;Regular;7.92;23.5;Boleto;Feminino;Casado(a);36;Guarapuava
+1292;Regular;6.95;25.4;Visa;Feminino;Casado(a);32;Colombo
+1293;Regular;7.85;28;Boleto;Feminino;Casado(a);66;Toledo
+1294;Regular;6.33;26.8;Boleto;Feminino;Casado(a);22;Guarapuava
+1295;Regular;8.36;20.9;Boleto;Feminino;Solteiro(a);60;Guarapuava
+1296;Regular;5.09;20.3;Boleto;Feminino;Casado(a);43;Pato Branco
+1297;1Compra;5.3;21.2;Boleto;Masculino;Casado(a);23;Pato Branco
+1298;1Compra;7.59;21.7;Visa;Feminino;Solteiro(a);61;Pato Branco
+1299;Regular;7.33;25.6;Boleto;Feminino;Casado(a);47;Londrina
+1300;Regular;4.22;24.3;Visa;Feminino;Casado(a);34;Pato Branco
+1301;1Compra;7.67;26.1;Boleto;Feminino;Solteiro(a);48;Guarapuava
+1302;1Compra;5.73;28.2;Boleto;Feminino;Solteiro(a);33;Pato Branco
+1303;Regular;4.56;25.5;Boleto;Feminino;Casado(a);66;Guarapuava
+1304;1Compra;4.17;128;Boleto;Feminino;Casado(a);38;Colombo
+1305;Regular;4.87;29;Boleto;Feminino;Casado(a);49;CuritibaCuritiba
+1306;Regular;6.78;59;Boleto;Feminino;Casado(a);35;Pato Branco
+1307;Regular;8.79;116;Boleto;Feminino;Casado(a);44;Guarapuava
+1308;Regular;5.94;25;Boleto;Feminino;Solteiro(a);35;Pato Branco
+1309;Regular;5.96;60;Boleto;Feminino;Casado(a);28;Toledo
+1310;Regular;6.39;48;Boleto;Feminino;Casado(a);58;Pato Branco
+1311;Regular;6.64;63;Boleto;Feminino;Solteiro(a);29;Guarapuava
+1312;Regular;7.34;50;Boleto;Feminino;Solteiro(a);23;Maringa
+1313;Regular;5.29;51;Boleto;Feminino;Solteiro(a);59;Colombo
+1314;Regular;8.01;24;Boleto;Masculino;Casado(a);39;Toledo
+1315;Regular;8.54;62;Boleto;Feminino;Solteiro(a);36;Maringa
+1316;1Compra;6.97;57;Boleto;Masculino;Casado(a);33;Guarapuava
+1317;Regular;4.7;35;Boleto;Feminino;Casado(a);54;Guarapuava
+1318;Regular;7.28;38;Boleto;Feminino;Solteiro(a);65;Colombo
+1319;Regular;7.75;41;Boleto;Feminino;Casado(a);64;Pato Branco
+1320;Regular;4.98;30;Boleto;Feminino;Casado(a);34;Pato Branco
+1321;Regular;5.58;87;Boleto;Feminino;Solteiro(a);32;Colombo
+1322;Regular;4.41;63;Boleto;Feminino;Solteiro(a);52;Guarapuava
+1323;Regular;7.7;83;Boleto;Feminino;Casado(a);61;Toledo
+1324;Regular;7.46;52;Boleto;Feminino;Solteiro(a);33;Pato Branco
+1325;Regular;6.34;46;Boleto;Feminino;Casado(a);49;Pato Branco
+1326;Regular;4.11;31;Boleto;Feminino;Solteiro(a);35;Toledo
+1327;Regular;6.82;77;Boleto;Feminino;Casado(a);39;Colombo
+1328;Regular;6.85;45;Boleto;Feminino;Casado(a);59;Guarapuava
+1329;1Compra;7.6;75;Boleto;Masculino;Solteiro(a);25;Maringa
+1330;Regular;5;52;Boleto;Feminino;Casado(a);17;Toledo
+1331;Regular;7.59;98;Boleto;Feminino;Solteiro(a);49;Pato Branco
+1332;1Compra;5.2;87;Boleto;Feminino;Solteiro(a);34;Colombo
+1333;Regular;4.98;30;Boleto;Feminino;Solteiro(a);64;Colombo
+1334;Regular;4.22;113;Boleto;Feminino;Casado(a);52;Pato Branco
+1335;Regular;7.71;40;Boleto;Feminino;Solteiro(a);70;Toledo
+1336;Regular;5.97;28.1;MasterCard;Feminino;Casado(a);29;Colombo
+1337;Regular;7.81;29.2;Boleto;Feminino;Casado(a);31;Toledo
+1338;Regular;5.49;21.5;Boleto;Feminino;Solteiro(a);57;Colombo
+1339;Regular;5.42;29.9;Boleto;Feminino;Casado(a);52;Maringa
+1340;Regular;5.85;24.2;Boleto;Feminino;Solteiro(a);20;Pato Branco
+1341;Regular;7.83;24.6;Boleto;Feminino;Solteiro(a);47;Pato Branco
+1342;Regular;6.1;29.9;Boleto;Feminino;Casado(a);35;Maringa
+1343;Regular;6.57;20.5;Boleto;Feminino;Solteiro(a);35;Maringa
+1344;Regular;7.39;29.1;Visa;Feminino;Casado(a);53;Maringa
+1345;Regular;9;21.5;Visa;Feminino;Casado(a);38;Colombo
+1346;Regular;5.95;24.1;Boleto;Masculino;Solteiro(a);59;Maringa
+1347;Regular;4.66;70.8;Boleto;Feminino;Casado(a);35;Guarapuava
+1348;Regular;5.19;69.9;Boleto;Feminino;Casado(a);50;Pato Branco
+1349;Regular;7.26;66.5;Boleto;Feminino;Solteiro(a);33;Pato Branco
+1350;Regular;7.28;65.5;Boleto;Feminino;Casado(a);44;Curitiba0
+1351;Regular;6.83;61.3;Boleto;Feminino;Casado(a);55;Maringa
+1352;Regular;5.32;68;Visa;Feminino;Solteiro(a);61;Maringa
+1353;Regular;4.92;77.2;Boleto;Feminino;Casado(a);36;Maringa
+1354;Regular;5.82;76.2;MasterCard;Feminino;Solteiro(a);55;Maringa
+1355;1Compra;6.09;79.9;Boleto;Feminino;Casado(a);59;Pato Branco
+1356;1Compra;5.11;54.3;Visa;Feminino;Solteiro(a);34;Toledo
+1357;Regular;7.42;79.9;Boleto;Feminino;Casado(a);34;Pato Branco
+1358;Regular;4.85;57.1;MasterCard;Feminino;Casado(a);30;Maringa
+1359;1Compra;5.87;89.3;Visa;Feminino;Casado(a);29;Colombo
+1360;Regular;5.68;115;MasterCard;Masculino;Casado(a);29;Maringa
+1361;Regular;7.79;126;Boleto;Feminino;Casado(a);41;Maringa
+1362;Regular;4.43;76.5;Boleto;Feminino;Solteiro(a);30;Colombo
+1363;1Compra;6.11;81.1;Boleto;Feminino;Casado(a);50;Toledo
+1364;Regular;5.78;56.7;Boleto;Feminino;Casado(a);46;Colombo
+1365;1Compra;4.63;138.8;MasterCard;Feminino;Casado(a);42;Toledo
+1366;Regular;4.35;47.9;Boleto;Feminino;Casado(a);25;Maringa
+1367;Regular;4.11;42.5;Boleto;Feminino;Solteiro(a);45;Colombo
+1368;Regular;7.99;39.4;Boleto;Feminino;Casado(a);49;Colombo
+1369;1Compra;5.52;68.9;Boleto;Feminino;Casado(a);34;Maringa
+1370;1Compra;6.85;60.3;Boleto;Feminino;Casado(a);35;Maringa
+1371;Regular;4.82;87.7;Boleto;Feminino;Solteiro(a);52;Colombo
+1372;Regular;7.56;46.3;Boleto;Feminino;Casado(a);21;Pato Branco
+1373;Regular;4.15;44.2;Boleto;Feminino;Casado(a);36;Maringa
+1374;Regular;5.26;84.4;Boleto;Feminino;Casado(a);32;Pato Branco
+1375;Regular;4.95;64.1;Boleto;Feminino;Casado(a);69;Pato Branco
+1376;Regular;6.46;115.3;Boleto;Feminino;Casado(a);46;Toledo
+1377;Regular;7.68;40.7;Visa;Feminino;Solteiro(a);33;Maringa
+1378;Regular;7.88;79.2;Visa;Feminino;Casado(a);40;Guarapuava
+1379;Regular;5.27;39.5;Boleto;Feminino;Casado(a);58;Guarapuava
+1380;Regular;5.76;14.7;Boleto;Feminino;Casado(a);49;Guarapuava
+1381;Regular;4.96;24.1;Boleto;Feminino;Casado(a);27;Pato Branco
+1382;Regular;6.94;117.3;Visa;Masculino;Solteiro(a);42;Guarapuava
+1383;Regular;8.62;67.9;Boleto;Masculino;Casado(a);82;Maringa
+1384;Regular;4.5;73.2;Boleto;Feminino;Solteiro(a);52;Colombo
+1385;Regular;7.39;63.7;Boleto;Feminino;Solteiro(a);54;Pato Branco
+1386;Regular;8.79;36.1;Boleto;Feminino;Casado(a);46;Toledo
+1387;Regular;6.5;58.6;Boleto;Feminino;Solteiro(a);43;Pato Branco
+1388;Regular;6.18;97.2;Boleto;Feminino;Solteiro(a);58;Colombo
+1389;Regular;4.86;41.8;Boleto;Feminino;Casado(a);32;Toledo
+1390;1Compra;7.08;93.9;Boleto;Feminino;Casado(a);36;Pato Branco
+1391;1Compra;6.43;21.8;Boleto;Feminino;Casado(a);37;Pato Branco
+1392;Regular;6.12;17.3;Visa;Masculino;Solteiro(a);45;Colombo
+1393;1Compra;5.6;65.9;Boleto;Masculino;Casado(a);35;Pato Branco
+1394;1Compra;6.34;32.4;Boleto;Feminino;Casado(a);46;Pato Branco
+1395;Regular;7.11;61.1;Boleto;Masculino;Casado(a);40;Curitiba0
+1396;1Compra;6.53;113;Boleto;Feminino;Solteiro(a);56;Colombo
+1397;1Compra;7.42;40;Boleto;Feminino;Solteiro(a);27;Toledo
+1398;Regular;5.37;52;Boleto;Feminino;Casado(a);34;Guarapuava
+1399;1Compra;7.15;33;Boleto;Feminino;Solteiro(a);57;Colombo
+1400;Regular;9.1;45;Visa;Feminino;Casado(a);51;Colombo
+1401;1Compra;4.53;36;Boleto;Feminino;Casado(a);30;Toledo
+1402;Regular;6.67;45;Boleto;Feminino;Solteiro(a);56;Pato Branco
+1403;Regular;4.2;70;MasterCard;Feminino;Casado(a);37;Pato Branco
+1404;Regular;6.62;50;Boleto;Feminino;Casado(a);33;Guarapuava
+1405;Regular;7.42;34;Boleto;Feminino;Casado(a);51;Maringa
+1406;1Compra;7.48;31;MasterCard;Masculino;Casado(a);62;Colombo
+1407;Regular;7.64;98;Boleto;Feminino;Casado(a);33;Maringa
+1408;Regular;7.47;48;Boleto;Feminino;Solteiro(a);24;Maringa
+1409;Regular;7.08;30;Boleto;Feminino;Casado(a);70;Toledo
+1410;Regular;4.94;55;Boleto;Feminino;Solteiro(a);57;Pato Branco
+1411;Regular;5.37;72;Boleto;Feminino;Solteiro(a);33;Colombo
+1412;1Compra;7.69;47;Boleto;Feminino;Solteiro(a);31;Pato Branco
+1413;Regular;6.75;45;Boleto;Feminino;Solteiro(a);31;Toledo
+1414;1Compra;7.09;28;Boleto;Feminino;Casado(a);41;Maringa
+1415;Regular;5.08;71;Boleto;Feminino;Casado(a);46;Toledo
+1416;1Compra;4.12;38;Boleto;Feminino;Solteiro(a);26;Pato Branco
+1417;Regular;6.65;65;Boleto;Feminino;Casado(a);37;Toledo
+1418;1Compra;7.41;35;Boleto;Feminino;Solteiro(a);39;Colombo
+1419;Regular;7.32;93;Boleto;Feminino;Solteiro(a);40;Maringa
+1420;Regular;5.48;68;Boleto;Feminino;Casado(a);61;CuritibaCuritiba
+1421;Regular;5.05;29;Boleto;Feminino;Casado(a);57;Maringa
+1422;Regular;6.5;60;Boleto;Masculino;Casado(a);36;Maringa
+1423;Regular;4.62;42;Boleto;Feminino;Solteiro(a);60;Colombo
+1424;Regular;7.38;34;Boleto;Feminino;Solteiro(a);48;Maringa
+1425;Regular;4.27;41;Boleto;Feminino;Casado(a);33;Maringa
+1426;Regular;7.76;23;Boleto;Feminino;Casado(a);56;Maringa
+1427;Regular;8.88;29;Boleto;Feminino;Casado(a);30;Maringa
+1428;Regular;6.49;51;Boleto;Feminino;Casado(a);29;Toledo
+1429;Regular;7.89;49;Boleto;Feminino;Casado(a);62;Pato Branco
+1430;Regular;7.08;38;Visa;Feminino;Casado(a);18;Curitiba0
+1431;Regular;8.22;41;Boleto;Feminino;Solteiro(a);54;Curitiba0
+1432;Regular;5.32;128;Boleto;Masculino;Solteiro(a);63;Toledo
+1433;1Compra;9;29;Boleto;Feminino;Solteiro(a);29;Guarapuava
+1434;1Compra;6.37;61;Boleto;Feminino;Casado(a);22;Colombo
+1435;Regular;8.08;39;Boleto;Feminino;Casado(a);29;Maringa
+1436;Regular;4.27;59;Boleto;Feminino;Casado(a);22;Pato Branco
+1437;Regular;4.79;46;Visa;Feminino;Solteiro(a);31;Colombo
+1438;Regular;8.04;116;Boleto;Feminino;Solteiro(a);27;Londrina
+1439;Regular;5.39;25;Boleto;Feminino;Solteiro(a);44;Guarapuava
+1440;Regular;5.41;60;Boleto;Feminino;Casado(a);77;Toledo
+1441;Regular;7.04;69;Boleto;Feminino;Casado(a);69;Maringa
+1442;Regular;5.56;55;Boleto;Feminino;Solteiro(a);27;Pato Branco
+1443;Regular;4.21;102;Boleto;Feminino;Solteiro(a);44;Colombo
+1444;1Compra;6.23;48;MasterCard;Masculino;Casado(a);31;Curitiba
+1445;Regular;7.31;50;MasterCard;Feminino;Solteiro(a);36;Londrina
+1446;Regular;7.31;54;Boleto;Feminino;Casado(a);47;Guarapuava
+1447;1Compra;5.65;54;Boleto;Feminino;Casado(a);70;Guarapuava
+1448;Regular;6.74;63;MasterCard;Feminino;Casado(a);38;Toledo
+1449;Regular;7.91;56;Boleto;Feminino;Casado(a);22;Colombo
+1450;Regular;6.74;143;Visa;2;Solteiro(a);54;Maringa
+1451;Regular;6.18;50;Boleto;2;Casado(a);42;Toledo
+1452;Regular;5.22;51;Boleto;Feminino;Solteiro(a);36;Pato Branco
+1453;Regular;6.5;45;Visa;Feminino;Casado(a);51;Colombo
+1454;Regular;6.56;24;Visa;Feminino;Casado(a);39;Toledo
+1455;Regular;7.83;62;MasterCard;Feminino;Solteiro(a);41;Maringa
+1456;1Compra;8.63;57;MasterCard;Feminino;Casado(a);26;Pato Branco
+1457;1Compra;4.18;72;Boleto;Feminino;Solteiro(a);33;Toledo
+1458;Regular;6.27;53;Boleto;Feminino;Casado(a);37;Maringa
+1459;Regular;7.86;35;Boleto;Feminino;6;41;Pato Branco
+1460;1Compra;7.41;64;Boleto;Feminino;Solteiro(a);36;CuritibaCuritiba
+1461;1Compra;6.36;41;Boleto;Feminino;Solteiro(a);45;Colombo
+1462;Regular;7.55;37;Boleto;Masculino;Solteiro(a);26;Pato Branco
+1463;1Compra;7.43;38;Boleto;Feminino;Casado(a);74;Guarapuava
+1464;Regular;5.88;41;MasterCard;Feminino;Casado(a);20;Guarapuava
+1465;Regular;4.92;30;Boleto;Feminino;Solteiro(a);33;Guarapuava
+1466;Regular;6.14;60;Boleto;Feminino;Solteiro(a);23;Colombo
+1467;Regular;4.55;76;Boleto;Feminino;Casado(a);32;Colombo
+1468;Regular;4.07;50;Boleto;Feminino;Casado(a);31;Maringa
+1469;Regular;4.51;42;Boleto;Feminino;Casado(a);53;Guarapuava
+1470;Regular;8.18;83;Boleto;Feminino;Solteiro(a);34;Toledo
+1471;Regular;7.21;57;Visa;Feminino;Solteiro(a);70;Pato Branco
+1472;Regular;7.59;41;Boleto;Feminino;Solteiro(a);28;Toledo
+1473;Regular;5.37;62;Boleto;Feminino;Solteiro(a);28;Maringa
+1474;Regular;5.87;23;Visa;Feminino;Solteiro(a);51;Toledo
+1475;1Compra;4.17;90;Boleto;Feminino;Casado(a);30;Pato Branco
+1476;Regular;5.3;34;MasterCard;Feminino;Solteiro(a);26;Pato Branco
+1477;Regular;5.47;46;Boleto;Feminino;Casado(a);55;Maringa
+1478;Regular;7.39;38;MasterCard;Feminino;Casado(a);30;Colombo
+1479;Regular;5.09;29;MasterCard;Feminino;Solteiro(a);34;Guarapuava
+1480;Regular;7.44;53;Boleto;Feminino;Solteiro(a);88;Pato Branco
+1481;Regular;6.52;67;Boleto;Feminino;Casado(a);54;Toledo
+1482;Regular;7.31;59;Visa;Feminino;Solteiro(a);41;Pato Branco
+1483;Regular;7.54;43;Boleto;Feminino;Solteiro(a);29;Colombo
+1484;Regular;6.98;34;Boleto;Feminino;Solteiro(a);59;Curitiba0
+1485;Regular;6.49;58;Boleto;Masculino;Casado(a);35;Colombo
+1486;Regular;5.77;67;Visa;Feminino;Solteiro(a);58;Colombo
+1487;Regular;6.68;56;MasterCard;Masculino;Solteiro(a);47;Toledo
+1488;1Compra;5.23;65;Boleto;Feminino;Casado(a);51;Curitiba0
+1489;Regular;7.5;31;Boleto;Feminino;Casado(a);54;Guarapuava
+1490;Regular;5.89;61;Boleto;Feminino;Casado(a);27;Guarapuava
+1491;1Compra;5.03;51;MasterCard;Feminino;Solteiro(a);34;Toledo
+1492;Regular;4.85;94;Boleto;Feminino;Solteiro(a);22;Pato Branco
+1493;Regular;7.9;36;Boleto;Feminino;Solteiro(a);56;Maringa
+1494;Regular;6.68;91;Visa;Feminino;Solteiro(a);26;Pato Branco
+1495;Regular;7.41;54;Boleto;Feminino;Solteiro(a);56;Colombo
+1496;Regular;7.46;27;Visa;Masculino;Casado(a);28;Pato Branco
+1497;Regular;5.7;46;Boleto;Feminino;Solteiro(a);30;Toledo
+1498;Regular;6.14;36;Boleto;Feminino;Casado(a);70;Guarapuava
+1499;Regular;7.17;71;MasterCard;Feminino;Solteiro(a);43;Toledo
+1500;Regular;6.83;70;Boleto;Feminino;Solteiro(a);46;CuritibaCuritiba
+1501;Regular;7.91;62;Boleto;Feminino;Casado(a);55;Curitiba
+1502;Regular;5.4;39;Visa;Feminino;Solteiro(a);32;Pato Branco
+1503;Regular;7.78;66;Boleto;Feminino;Solteiro(a);28;Maringa
+1504;Regular;8.02;56;Boleto;Feminino;Solteiro(a);61;Colombo
+1505;Regular;7.83;52;Boleto;Masculino;Casado(a);29;Maringa
+1506;Regular;7.96;75;MasterCard;Feminino;Solteiro(a);61;Pato Branco
+1507;Regular;7.33;93;Boleto;Masculino;Solteiro(a);49;Colombo
+1508;Regular;7.96;89;Visa;Feminino;Casado(a);29;Colombo
+1509;Regular;5.97;48;Boleto;Feminino;Casado(a);53;Colombo
+1510;Regular;6.08;66;Boleto;Feminino;Casado(a);28;Guarapuava
+1511;Regular;8.79;50;Boleto;Feminino;Solteiro(a);61;Guarapuava
+1512;Regular;5.6;114;Boleto;Feminino;Solteiro(a);28;Toledo
+1513;Regular;6.32;57;Boleto;Feminino;Solteiro(a);59;Colombo
+1514;1Compra;5.57;52;Visa;Feminino;Solteiro(a);33;Colombo
+1515;1Compra;6.02;47;Boleto;Feminino;Solteiro(a);38;Pato Branco
+1516;Regular;7.86;95;Boleto;Masculino;Casado(a);58;Toledo
+1517;Regular;6.56;56;Boleto;Feminino;Solteiro(a);40;Toledo
+1518;1Compra;6.17;63;Visa;Feminino;Casado(a);53;Maringa
+1519;Regular;4.93;62;MasterCard;Feminino;Solteiro(a);33;Maringa
+1520;Regular;4.16;138;Boleto;Feminino;Casado(a);56;Londrina
+1521;Regular;5.2;112;MasterCard;Feminino;Solteiro(a);23;Londrina
+1522;1Compra;5.61;53;Boleto;Feminino;Solteiro(a);40;Maringa
+1523;Regular;7.47;33;Boleto;Feminino;Solteiro(a);53;Pato Branco
+1524;1Compra;6.03;82;Boleto;Masculino;Casado(a);47;Pato Branco
+1525;Regular;7.57;66;Visa;Feminino;Solteiro(a);63;Maringa
+1526;Regular;7.53;113;Boleto;Masculino;Solteiro(a);28;Pato Branco
+1527;Regular;8.37;79;Boleto;Feminino;Casado(a);38;Colombo
+1528;1Compra;6.96;31;Boleto;Feminino;Casado(a);46;Colombo
+1529;1Compra;7.34;77;Boleto;Feminino;Casado(a);23;Toledo
+1530;Regular;7.19;35;Boleto;Feminino;Solteiro(a);40;Pato Branco
+1531;Regular;5.93;31;Boleto;Feminino;Solteiro(a);43;Maringa
+1532;Regular;5.52;58;Boleto;Feminino;Solteiro(a);49;Colombo
+1533;Regular;5.07;66;Boleto;Feminino;Solteiro(a);48;Pato Branco
+1534;Regular;6.1;80;Boleto;Feminino;Solteiro(a);28;Guarapuava
+1535;Regular;8.5;43;Boleto;Masculino;Casado(a);45;Guarapuava
+1536;Regular;7.46;59;Boleto;Feminino;Solteiro(a);33;Maringa
+1537;Regular;7.79;78;Boleto;Feminino;Casado(a);27;Maringa
+1538;Regular;4.99;38;Boleto;Feminino;Solteiro(a);40;Colombo
+1539;Regular;8.74;48;Boleto;Feminino;Solteiro(a);33;Toledo
+1540;Regular;4.47;61;Boleto;Feminino;Casado(a);49;Londrina
+1541;Regular;6.67;70;Boleto;Feminino;Solteiro(a);44;Pato Branco
+1542;Regular;7.73;59;Boleto;Feminino;Solteiro(a);27;Guarapuava
+1543;Regular;4.76;77;Visa;Feminino;Solteiro(a);41;Toledo
+1544;Regular;8.03;61;Boleto;Masculino;Casado(a);52;Colombo
+1545;Regular;7.9;41;Boleto;Feminino;Solteiro(a);67;Maringa
+1546;Regular;6.09;47;Visa;Masculino;Solteiro(a);70;Colombo
+1547;Regular;4.34;41;MasterCard;Feminino;Casado(a);25;Curitiba0
+1548;Regular;4.25;53;Boleto;Feminino;Casado(a);63;Toledo
+1549;1Compra;5.36;114;MasterCard;Feminino;Casado(a);53;Pato Branco
+1550;1Compra;4.27;64;MasterCard;Feminino;Solteiro(a);29;Guarapuava
+1551;Regular;4.46;111;Boleto;Feminino;Solteiro(a);34;Maringa
+1552;1Compra;5.14;75;Boleto;Feminino;Solteiro(a);41;Pato Branco
+1553;1Compra;5.78;36;Boleto;Feminino;Solteiro(a);23;Guarapuava
+1554;Regular;5.58;28;Boleto;Feminino;Solteiro(a);54;Maringa
+1555;1Compra;7.97;39;MasterCard;Masculino;Casado(a);44;Maringa
+1556;1Compra;7.13;104;Boleto;Feminino;Solteiro(a);66;Colombo
+1557;Regular;6.51;64;MasterCard;Feminino;Casado(a);51;Dois Vizinhos
+1558;1Compra;5.81;32;Visa;Feminino;Solteiro(a);57;Colombo
+1559;Regular;6.26;30;Boleto;Feminino;Solteiro(a);35;Toledo
+1560;1Compra;7.67;87;Boleto;Feminino;Casado(a);26;Maringa
+1561;Regular;7.43;59;Boleto;Feminino;Solteiro(a);36;Toledo
+1562;Regular;5.2;63;Boleto;Feminino;Solteiro(a);18;Maringa
+1563;Regular;8.31;83;Boleto;Feminino;Solteiro(a);45;Pato Branco
+1564;Regular;4.72;83;Boleto;Masculino;Casado(a);50;Guarapuava
+1565;1Compra;6.08;52;Boleto;Feminino;Solteiro(a);27;Toledo
+1566;Regular;6.44;46;Boleto;Masculino;Solteiro(a);46;Toledo
+1567;Regular;7.99;40;Boleto;Feminino;Casado(a);67;Guarapuava
+1568;Regular;8.4;51;Boleto;Feminino;Casado(a);26;Toledo
+1569;Regular;7.18;49;MasterCard;Feminino;Casado(a);51;Maringa
+1570;Regular;7.53;67;Visa;Feminino;Solteiro(a);32;Pato Branco
+1571;1Compra;4.25;52;Boleto;Feminino;Solteiro(a);36;Pato Branco
+1572;Regular;6.82;88;Boleto;Feminino;Solteiro(a);24;Pato Branco
+1573;1Compra;4.96;59;Visa;Feminino;Solteiro(a);52;Pato Branco
+1574;Regular;7.4;46;Boleto;Feminino;Solteiro(a);61;Pato Branco
+1575;1Compra;6.99;67;Visa;Masculino;Casado(a);25;Londrina
+1576;Regular;7.64;31;Boleto;Feminino;Solteiro(a);49;Maringa
+1577;1Compra;6.44;84;Visa;Feminino;Casado(a);56;Colombo
+1578;Regular;4.12;33;Boleto;Feminino;Solteiro(a);18;Toledo
+1579;Regular;6.04;33;Boleto;Feminino;Solteiro(a);63;Maringa
+1580;Regular;4.76;77;Visa;Feminino;Casado(a);50;Guarapuava
+1581;Regular;4.37;59;Boleto;Feminino;Solteiro(a);44;Pato Branco
+1582;Regular;4.57;85;Visa;Feminino;Solteiro(a);54;Pato Branco
+1583;Regular;5.38;60;Boleto;Feminino;Solteiro(a);56;Maringa
+1584;Regular;5.16;46;Boleto;Masculino;Casado(a);39;Guarapuava
+1585;Regular;6.96;63;Boleto;Feminino;Solteiro(a);69;Colombo
+1586;Regular;5.85;45;Boleto;Masculino;Solteiro(a);51;Pato Branco
+1587;Regular;7.25;75;MasterCard;Feminino;Casado(a);40;Maringa
+1588;Regular;8.23;52;Boleto;Feminino;Casado(a);19;Pato Branco
+1589;Regular;5.24;38;Boleto;Feminino;Casado(a);52;Guarapuava
+1590;Regular;7.1;98;Boleto;Feminino;Solteiro(a);33;Maringa
+1591;Regular;8.06;87;Boleto;Feminino;Solteiro(a);32;Colombo
+1592;1Compra;8.57;75;MasterCard;Feminino;Solteiro(a);54;Curitiba0
+1593;1Compra;6.89;41;Boleto;Feminino;Solteiro(a);31;Toledo
+1594;Regular;5.43;57;Boleto;Feminino;Solteiro(a);50;Colombo
+1595;Regular;5.8;67;Boleto;Masculino;Casado(a);26;Maringa
+1596;Regular;4.51;31;Boleto;Feminino;Solteiro(a);59;Colombo
+1597;Regular;4.91;56;Visa;Feminino;Casado(a);61;Guarapuava
+1598;Regular;7.98;69;Boleto;Feminino;Solteiro(a);21;Maringa
+1599;Regular;6.38;61;MasterCard;Feminino;Solteiro(a);84;Colombo
+1600;Regular;5.11;51;Visa;Feminino;Casado(a);36;Londrina
+1601;Regular;6.78;47;Boleto;Feminino;Solteiro(a);22;Colombo
+1602;Regular;7.28;87;Boleto;Feminino;Solteiro(a);22;Pato Branco
+1603;1Compra;6.08;62;Boleto;Feminino;Solteiro(a);32;Pato Branco
+1604;Regular;5.09;31;Boleto;Masculino;Casado(a);56;Londrina
+1605;Regular;4.88;99;Boleto;Feminino;Solteiro(a);49;Toledo
+1606;1Compra;7.86;33;MasterCard;Masculino;Solteiro(a);29;Toledo
+1607;Regular;4.47;55;Boleto;Feminino;Casado(a);39;Maringa
+1608;Regular;6.2;49;Boleto;Feminino;Casado(a);89;Pato Branco
+1609;Regular;7.67;35;Boleto;Feminino;Casado(a);22;Pato Branco
+1610;Regular;5.27;58;Visa;Feminino;Solteiro(a);27;Colombo
+1611;Regular;6.39;52;Boleto;Feminino;Solteiro(a);31;Toledo
+1612;Regular;7.49;53;Boleto;Feminino;Solteiro(a);38;Toledo
+1613;Regular;6.75;46;Boleto;Feminino;Solteiro(a);24;Colombo
+1614;Regular;7.74;42;Boleto;Feminino;Solteiro(a);26;Toledo
+1615;1Compra;5.52;59;Boleto;Masculino;Casado(a);31;Colombo
+1616;1Compra;5.6;76;Boleto;Feminino;Solteiro(a);48;Maringa
+1617;Regular;7.83;45;MasterCard;Feminino;Casado(a);57;Londrina
+1618;Regular;7.47;35;Visa;Feminino;Solteiro(a);35;Toledo
+1619;1Compra;6.73;40;Boleto;Feminino;Solteiro(a);69;Colombo
+1620;1Compra;5.17;69;Boleto;Feminino;Casado(a);32;Guarapuava
+1621;Regular;7.37;80;Boleto;Feminino;Solteiro(a);48;Colombo
+1622;1Compra;7.66;58;Boleto;Feminino;Solteiro(a);38;Guarapuava
+1623;Regular;5.06;84;Boleto;Feminino;Solteiro(a);63;Colombo
+1624;Regular;7.14;90;MasterCard;Masculino;Casado(a);69;Pato Branco
+1625;Regular;6.27;73;Boleto;Feminino;Solteiro(a);30;Londrina
+1626;Regular;5.93;73;Boleto;Masculino;Solteiro(a);24;Maringa
+1627;Regular;4.43;59;Boleto;Feminino;Casado(a);37;Guarapuava
+1628;Regular;4.45;67;Boleto;Feminino;Casado(a);57;Colombo
+1629;Regular;5.82;49;Boleto;Feminino;Casado(a);26;Curitiba0
+1630;Regular;4.72;37;MasterCard;Feminino;Solteiro(a);37;Toledo
+1631;Regular;7.53;58;Boleto;Feminino;Solteiro(a);26;Pato Branco
+1632;Regular;4.83;116;Boleto;Feminino;Solteiro(a);51;Curitiba0
+1633;Regular;7.55;40;Boleto;Feminino;Solteiro(a);28;Londrina
+1634;1Compra;5.35;75;Boleto;Feminino;Solteiro(a);63;Colombo
+1635;Regular;7.72;46;Boleto;Masculino;Casado(a);48;Maringa
+1636;Regular;6.27;91;Boleto;Feminino;Solteiro(a);58;Maringa
+1637;Regular;7.17;44;Boleto;Feminino;Casado(a);27;Guarapuava
+1638;Regular;4.35;115;Boleto;Feminino;Solteiro(a);30;Pato Branco
+1639;Regular;6.53;53;Boleto;Feminino;Solteiro(a);43;Maringa
+1640;Regular;4.82;56;Boleto;Feminino;Casado(a);38;Maringa
+1641;Regular;7.48;52;Boleto;Feminino;Solteiro(a);39;Londrina
+1642;Regular;4.61;61;Boleto;Feminino;Solteiro(a);52;Pato Branco
+1643;Regular;6.62;21;Boleto;Feminino;Solteiro(a);48;Colombo
+1644;Regular;4.36;49;Boleto;Masculino;Casado(a);23;CuritibaCuritiba
+1645;Regular;5.97;24;Boleto;Feminino;Solteiro(a);65;Toledo
+1646;Regular;4.14;84;MasterCard;Masculino;Solteiro(a);44;Guarapuava
+1647;1Compra;4.17;33;Boleto;Feminino;Casado(a);33;Colombo
+1648;Regular;8.14;42;MasterCard;Feminino;Casado(a);46;Toledo
+1649;Regular;5.16;64;Boleto;Feminino;Casado(a);43;Curitiba0
+1650;1Compra;6.86;31;Boleto;Feminino;Solteiro(a);35;Maringa
+1651;Regular;6.86;38;Boleto;Feminino;Solteiro(a);33;Maringa
+1652;Regular;7.96;90;Boleto;Feminino;Solteiro(a);37;Curitiba0
+1653;Regular;6.22;76;Boleto;Feminino;Solteiro(a);42;Colombo
+1654;Regular;7.46;28;Boleto;Feminino;Solteiro(a);52;Maringa
+1655;Regular;5.6;55;Boleto;Masculino;Casado(a);26;Pato Branco
+1656;Regular;5.18;54;Visa;Feminino;Solteiro(a);40;Pato Branco
+1657;Regular;7.45;65;Boleto;Feminino;Casado(a);46;Maringa
+1658;Regular;7.55;33;Boleto;Feminino;Solteiro(a);36;Pato Branco
+1659;Regular;6.1;68;Visa;Feminino;Solteiro(a);33;Pato Branco
+1660;Regular;4.99;38;Boleto;Feminino;Casado(a);54;Londrina
+1661;Regular;5.45;49;Visa;Feminino;Solteiro(a);25;Colombo
+1662;Regular;6.01;87;Boleto;Feminino;Solteiro(a);46;Colombo
+1663;Regular;5.48;63;Boleto;Feminino;Solteiro(a);52;Toledo
+1664;Regular;5.17;46;MasterCard;Masculino;Casado(a);24;Toledo
+1665;Regular;4.11;55;Boleto;Feminino;Solteiro(a);24;Guarapuava
+1666;Regular;6.36;35;Boleto;Masculino;Solteiro(a);26;Guarapuava
+1667;Regular;4.67;38;Boleto;Feminino;Casado(a);49;Colombo
+1668;Regular;5.8;68;Boleto;Feminino;Casado(a);57;Guarapuava
+1669;Regular;6.45;53;Visa;Feminino;Casado(a);28;Londrina
+1670;Regular;6.63;35;Boleto;Feminino;Solteiro(a);52;Toledo
+1671;Regular;7.34;29;Boleto;Feminino;Solteiro(a);55;Guarapuava
+1672;Regular;6.92;61;Boleto;Feminino;Solteiro(a);39;Maringa
+1673;1Compra;7.55;27;Boleto;Feminino;Solteiro(a);60;Pato Branco
+1674;1Compra;5.02;38;Boleto;Feminino;Solteiro(a);22;CuritibaLondrina
+1675;Regular;7.02;63;Boleto;Masculino;Casado(a);31;Pato Branco
+1676;Regular;7.35;42;Boleto;Feminino;Solteiro(a);60;Pato Branco
+1677;1Compra;4.71;32;Boleto;Feminino;Casado(a);32;Colombo
+1678;Regular;7.68;64;Boleto;Feminino;Solteiro(a);54;Guarapuava
+1679;Regular;5.88;52;Visa;Feminino;Solteiro(a);21;Maringa
+1680;Regular;7.08;37;Boleto;Feminino;Casado(a);46;Toledo
+1681;1Compra;7.95;83;Boleto;Feminino;Solteiro(a);35;Colombo
+1682;Regular;5.16;77;Boleto;Feminino;Solteiro(a);36;Maringa
+1683;1Compra;4.81;60;Boleto;Feminino;Solteiro(a);49;Maringa
+1684;Regular;5.88;106;Boleto;Masculino;Casado(a);41;Toledo
+1685;Regular;6.25;111;Boleto;Feminino;Solteiro(a);56;Maringa
+1686;Regular;6.62;50;Boleto;Masculino;Solteiro(a);41;Maringa
+1687;1Compra;6.9;39;Boleto;Feminino;Casado(a);28;Toledo
+1688;1Compra;5.79;63;Boleto;Feminino;Casado(a);53;Toledo
+1689;Regular;6.01;25;Boleto;Feminino;Casado(a);30;Colombo
+1690;Regular;8.01;61;Boleto;Feminino;Solteiro(a);21;CuritibaCuritiba
+1691;Regular;4.45;25;Visa;Feminino;Solteiro(a);41;Maringa
+1692;Regular;6.2;61;Boleto;Feminino;Solteiro(a);47;Pato Branco
+1693;Regular;4.3;89;Boleto;Feminino;Solteiro(a);34;Guarapuava
+1694;Regular;6.89;55;Boleto;Feminino;Solteiro(a);49;Colombo
+1695;Regular;8.08;44;Boleto;Masculino;Casado(a);37;Maringa
+1696;Regular;6.33;55;Boleto;Feminino;Solteiro(a);25;Colombo
+1697;Regular;5.06;41;Boleto;Feminino;Casado(a);31;Guarapuava
+1698;Regular;6.89;62;MasterCard;Feminino;Solteiro(a);45;Maringa
+1699;Regular;6.63;49;Boleto;Feminino;Solteiro(a);46;Guarapuava
+1700;Regular;7.28;36;Boleto;Feminino;Solteiro(a);49;Toledo
+1701;Regular;5.95;66;Boleto;Feminino;Solteiro(a);33;Colombo
+1702;Regular;6.13;34;Boleto;Feminino;Solteiro(a);54;Colombo
+1703;Regular;7.53;62;Boleto;Feminino;Solteiro(a);49;Maringa
+1704;Regular;7.67;22;Boleto;Masculino;Casado(a);47;Pato Branco
+1705;Regular;8.71;62;Boleto;Feminino;Solteiro(a);30;Guarapuava
+1706;Regular;4.52;45;Visa;Feminino;Casado(a);34;Curitiba0
+1707;Regular;6.16;61;Boleto;Feminino;Solteiro(a);63;Guarapuava
+1708;1Compra;4.56;25;Boleto;Feminino;Solteiro(a);23;Maringa
+1709;1Compra;7.06;66;Visa;Feminino;Casado(a);29;Pato Branco
+1710;Regular;5.39;32;Boleto;Feminino;Solteiro(a);50;Toledo
+1711;1Compra;6.9;75;MasterCard;Feminino;Solteiro(a);48;Guarapuava
+1712;1Compra;5.27;25;Boleto;Feminino;Solteiro(a);47;Londrina
+1713;Regular;5.33;72;Visa;Masculino;Casado(a);39;Colombo
+1714;1Compra;8.16;44;Boleto;Feminino;Solteiro(a);49;Londrina
+1715;1Compra;5.65;113;Boleto;Masculino;Solteiro(a);28;Maringa
+1716;Regular;5.29;111;Boleto;Feminino;Casado(a);35;Colombo
+1717;1Compra;7.5;98;Boleto;Feminino;Casado(a);56;Pato Branco
+1718;Regular;7.97;71;Visa;Feminino;Casado(a);36;Toledo
+1719;1Compra;7.54;103;Boleto;Feminino;Solteiro(a);23;Pato Branco
+1720;Regular;4.64;158;Boleto;Feminino;Solteiro(a);20;Toledo
+1721;Regular;7.59;58;Boleto;Feminino;Solteiro(a);24;Toledo
+1722;Regular;5.61;82;Boleto;Feminino;Solteiro(a);49;Pato Branco
+1723;Regular;7.78;130;Boleto;Feminino;Solteiro(a);46;Pato Branco
+1724;1Compra;7.22;28;Visa;Masculino;Casado(a);69;Toledo
+1725;Regular;7.68;118;Boleto;Feminino;Solteiro(a);46;Guarapuava
+1726;Regular;6.14;78;MasterCard;Feminino;Casado(a);31;Pato Branco
+1727;Regular;4.61;69;Boleto;Feminino;Solteiro(a);31;Colombo
+1728;Regular;5.88;23;MasterCard;Feminino;Solteiro(a);43;Colombo
+1729;Regular;7.68;93;Visa;Feminino;Solteiro(a);33;Guarapuava
+1730;1Compra;4.47;68;Boleto;Feminino;Solteiro(a);56;Maringa
+1731;Regular;4.07;123;Boleto;Feminino;Solteiro(a);32;Toledo
+1732;1Compra;7.62;55;Boleto;Feminino;Solteiro(a);53;Colombo
+1733;Regular;7.55;85;Visa;Masculino;Casado(a);45;Colombo
+1734;1Compra;7.86;97;Boleto;Feminino;Solteiro(a);37;Pato Branco
+1735;Regular;7.62;68;Visa;Feminino;Casado(a);25;Guarapuava
+1736;1Compra;6.79;63;Visa;Feminino;Solteiro(a);51;Toledo
+1737;Regular;5.75;113;Visa;Feminino;Solteiro(a);27;Colombo
+1738;Regular;6.31;88;Boleto;Feminino;Casado(a);65;Pato Branco
+1739;Regular;4.76;109;Boleto;Feminino;Solteiro(a);38;Toledo
+1740;Regular;5.02;89;Boleto;Feminino;Solteiro(a);49;Colombo
+1741;Regular;7.43;108;Boleto;Feminino;Solteiro(a);43;Pato Branco
+1742;Regular;6.01;112;Boleto;Masculino;Casado(a);34;Curitiba0
+1743;Regular;4.67;47;Boleto;Feminino;Solteiro(a);54;Pato Branco
+1744;Regular;5.33;38;Boleto;Masculino;Solteiro(a);50;Londrina
+1745;Regular;9.04;86;Visa;Feminino;Casado(a);56;Pato Branco
+1746;Regular;7.94;50;Boleto;Feminino;Casado(a);57;Colombo
+1747;Regular;8.08;27;Visa;Feminino;Casado(a);37;Maringa
+1748;Regular;5.88;82;Boleto;Feminino;Solteiro(a);39;CuritibaColombo
+1749;Regular;6.73;47;Boleto;Feminino;Solteiro(a);23;Pato Branco
+1750;Regular;6.01;41;Boleto;Feminino;Solteiro(a);61;Pato Branco
+1751;1Compra;7.51;44;Boleto;Feminino;Solteiro(a);49;Colombo
+1752;1Compra;5.54;155;Boleto;Feminino;Solteiro(a);34;Maringa
+1753;Regular;5.37;77;Boleto;Masculino;Casado(a);85;Pato Branco
+1754;Regular;7.28;68;Boleto;Feminino;Solteiro(a);35;Pato Branco
+1755;Regular;5.18;169;Visa;Feminino;Casado(a);53;Guarapuava
+1756;Regular;4.31;70;Visa;Feminino;Solteiro(a);37;Colombo
+1757;Regular;7.03;65;Visa;Feminino;Solteiro(a);0;Curitiba0
+1758;Regular;4.9;55;Boleto;Feminino;Solteiro(a);39;Maringa
+1759;Regular;4.32;56;MasterCard;Feminino;Solteiro(a);21;Colombo
+1760;Regular;7.57;94;Boleto;Feminino;Solteiro(a);26;Pato Branco
+1761;Regular;5.29;77;MasterCard;Feminino;Solteiro(a);42;Toledo
+1762;1Compra;7.75;61;Boleto;Masculino;Casado(a);52;Pato Branco
+1763;Regular;6.39;106;MasterCard;Feminino;Solteiro(a);48;Toledo
+1764;Regular;5.68;54;Boleto;Feminino;Casado(a);19;Pato Branco
+1765;1Compra;4.22;59;Boleto;Feminino;Solteiro(a);28;Pato Branco
+1766;Regular;4.39;57;Boleto;Feminino;Solteiro(a);39;Guarapuava
+1767;Regular;7.61;59;Boleto;Feminino;Casado(a);40;Pato Branco
+1768;Regular;7.59;130;Boleto;Feminino;Solteiro(a);35;Pato Branco
+1769;Regular;6.15;55;Boleto;Feminino;Solteiro(a);34;Toledo
+1770;Regular;6.55;45;Boleto;Feminino;Solteiro(a);51;Guarapuava
+1771;Regular;4.4;62;Boleto;Masculino;Casado(a);57;Maringa
+1772;Regular;6.45;31;Boleto;Feminino;Solteiro(a);54;Pato Branco
+1773;Regular;5.62;48;Boleto;Masculino;Solteiro(a);58;Pato Branco
+1774;1Compra;8.09;120;MasterCard;Feminino;Casado(a);33;Maringa
+1775;1Compra;7.73;62;Boleto;Feminino;Casado(a);54;Pato Branco
+1776;Regular;4.4;31;Boleto;Feminino;Casado(a);32;Maringa
+1777;Regular;7.27;143;Boleto;Feminino;Solteiro(a);33;Colombo
+1778;1Compra;7.33;95;Boleto;Feminino;Solteiro(a);41;Curitiba0
+1779;1Compra;5.55;29;Boleto;Feminino;Solteiro(a);24;CuritibaCuritiba
+1780;;5.17;61;Visa;Feminino;Solteiro(a);25;Toledo
